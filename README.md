@@ -4,7 +4,7 @@ kumpulang Themplate Blogspot
 # Download Template
 
 <p>
-  <a href="#" https://blogger.googleusercontent.com/img/a/AVvXsEg0zuJCdC0nJb-K1AFLltFgMeRYQbXJsVZnWQxZ6F0lVyDvNIy6vfFzpzpfXN5_tj1zFpz1iLYvJjkkc4l2Hj_P8f4SXwlTo6BoSfsYuxjN3uBjiqLRqLOnmu0cO6m1dFjNzTP4pOC_LtWqd7CeKvBeoKqYcOs_Xxdrs_rJWfPE2JrMboAcOTX-8gpDjdY-" alt="Netlify Status" />
+  <a href="#" https://blogger.googleusercontent.com/img/a/AVvXsEg0zuJCdC0nJb-K1AFLltFgMeRYQbXJsVZnWQxZ6F0lVyDvNIy6vfFzpzpfXN5_tj1zFpz1iLYvJjkkc4l2Hj_P8f4SXwlTo6BoSfsYuxjN3uBjiqLRqLOnmu0cO6m1dFjNzTP4pOC_LtWqd7CeKvBeoKqYcOs_Xxdrs_rJWfPE2JrMboAcOTX-8gpDjdY" alt="Netlify Status" />
   </a>
 </p>
 
@@ -23,10 +23,8 @@ A responsive [React]("https://www.paypal.me/mmsicompany) Buy Template Pro Lainny
 Menerima Penyaluran Donasi 
 
 
-ko_fi: tuanbagues
-buy_me_a_coffee: tuanbagues
-custom: ["https://www.paypal.me/mmsicompany", "https://tuanbagues.github.io/#/sponsor"]
-<a href="https://www.instagram.com/tuanbagues" target="_blank"><img src="https://3.bp.blogspot.com/-3dihe0iHtRE/WGIaNPV0s0I/AAAAAAAACWQ/uaqwVGBauukUy1aGmLLEV7c-rdezUbTnwCLcB/s1600/Donate_icon_B2.png" alt="Donasi" style="height: auto !important;width: auto !important;" ></a>
+ 
+<a href="https://www.paypal.me/mmsicompany" target="_blank"><img src="https://3.bp.blogspot.com/-3dihe0iHtRE/WGIaNPV0s0I/AAAAAAAACWQ/uaqwVGBauukUy1aGmLLEV7c-rdezUbTnwCLcB/s1600/Donate_icon_B2.png" alt="Donasi" style="height: auto !important;width: auto !important;" ></a>
 
 
 

@@ -1,0 +1,1480 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+  <head>
+<script language='javascript' src='http://css.blogger.googlepages.com/changedate11.js' type='text/javascript'/>
+    <link href='Icon aki!' rel='icon'/>
+    <link href='Icon aki!' rel='shortcut icon'/>
+    <link href='Icon aki!' rel='icon' type='image/jpg'/>
+    <b:include data='blog' name='all-head-content'/>
+    <title><data:blog.pageTitle/></title>
+    <b:skin><![CDATA[/*
+-------------------------------------
+|Credits by: DARKxGaBR              |
+|URL: http://darkxgabr.blogspot.com/|
+2URL: http://www.downlivre.info/    |
+-------------------------------------	
+/*  Defini��es vari�veis
+====================
+<Variable name="linktopmenucolor" description="Menu link T color" type="color"
+default="#bbb" value="#bbbbbb">
+<Variable name="menutopcl" description="Menu top color" type="color"
+default="#3D81EE" value="#3D81EE">
+<Variable name="menulinktop" description="Menu top link color" type="color"
+default="#ffffff" value="#ffffff">
+<Variable name="facecolor" description="facecolor" type="color"
+default="#000000" value="#000000">
+<Variable name="highlight" description="highlight" type="color"
+default="#000000" value="#000000">
+<Variable name="darkshadow" description="darkshadow" type="color"
+default="#4c4c4c" value="#4c4c4c">
+<Variable name="track" description="track" type="color"
+default="#000000" value="#000000">
+<Variable name="arrow" description="arrow" type="color"
+default="#cccccc" value="#cccccc">
+<Variable name="shadow" description="shadow" type="color"
+default="#cccccc" value="#cccccc">
+<Variable name="cordafontdomenu" description="Cor da Fonte do menu"
+type="color" default="#000000" value="#000000">
+<Variable name="corfontvisitemenu" description="Cor da Fonte do menu ouver"
+type="color" default="#000000" value="#000000">
+<Variable name="sidebarcolor" description="Cor da sidebar"
+type="color" default="#000000" value="#000000">
+<Variable name="sidebarleter" description="text sideb"
+type="color" default="#000000" value="#000000">
+<Variable name="sidebarcolores" description="sidebx"
+type="color" default="#000000" value="#000000">
+<Variable name="sidebarcolor2" description="Cor da sidebar2"
+type="color" default="#000000" value="#000000">
+<Variable name="footerlink" description="Cor do link footer"
+type="color" default="#000000" value="#000000">
+<Variable name="footertextcolor" description="Cor do texto footer"
+type="color" default="#000000" value="#000000">
+<Variable name="sidebarcolor3" description="Cor da sidebar3"
+type="color" default="#000000" value="#000000"><Variable name="blogTitleFont" description="Blog Title Font"
+type="font"
+default="normal bold 273% Georgia, Times, serif"
+ value="normal bold 273% Georgia, Times, serif">*/
+/* === Hide the NavBar === */
+.Navbar {
+visibility:hidden;
+display: none;
+}
+/* === Hide the NavBar === */body {
+font: 75%/170% Arial, Helvetica, sans-serif;
+padding: 0px;
+margin: 0px;
+color: #333333;
+word-wrap: break-word;
+}
+a {
+color: #44a1d0;
+text-decoration: none;
+}
+a:visited {
+color: #5EAFD7;
+}
+a:hover {
+text-decoration: underline;
+}
+p {
+margin: 0px 0px 15px;
+}
+img {
+border: none;
+}
+ul {
+margin: 5px 0px 15px;
+padding-left: 20px;
+}
+ul li {
+margin: 0px;
+}
+ol {
+margin: 5px 0px 15px;
+padding-left: 20px;
+}
+ul li {
+margin: 0px;
+}
+form {
+margin: 0px;
+padding: 0px;
+}
+small {
+font-size: 90%;
+}#navbar-iframe {
+height: 0px;
+visibility: hidden;
+display: none;
+}#wrapper {
+width: 995px;
+margin: 0px auto;
+position: relative;
+}
+/* Menu Do Topo
+----------------------------------------------- */
+.menu1 {padding:0 0 0 32px; margin:0; list-style:none; height:35px; background:#fff url(http://img166.imageshack.us/img166/5309/barsvgh8.gif); position:relative; border:1px solid #000; border-width:0 1px; border-bottom:1px solid #444;}
+.menu1 li {float:left;}
+.menu1 li a {display:block; float:left; height:35px; line-height:35px; color:#aaa; text-decoration: none; font-size:11px; font-family:arial, verdana, sans-serif; font-weight:bold; text-align:center; text-decoration:none; padding:0 0 0 8px; cursor:pointer;}
+.menu1 li a b {float:left; display:block; padding:0 16px 0 8px;}
+.menu1 li.current a {color:#fff; background:url(http://i11.tinypic.com/8acjo80.gif);}
+.menu1 li.current a b {background:url(http://i11.tinypic.com/8acjo80.gif) no-repeat right top;}
+.menu1 li a:hover {color:#fff; background:#000 url(http://i3.tinypic.com/6y0tzlt.gif );}
+.menu1 li a:hover b {background:url(http://i3.tinypic.com/6y0tzlt.gif ) no-repeat right top;}
+.menu1 li.current a:hover {color:#fff; background:#000 url(http://i11.tinypic.com/8acjo80.gif); cursor:default;}
+.menu1 li.current a:hover b {background:url(http://i11.tinypic.com/8acjo80.gif) no-repeat right top;
+}
+/* ------------------------------------- header area  */
+#topheader {
+height: 200px;
+}
+/* site title */
+h1 {
+position: absolute;
+top: 40px;
+left: 25px;
+color: #FFFFFF;
+margin: 0px;
+padding: 0px;
+font: normal normal 5% Arial, sans-serif;
+}
+h1 a, h1 a:visited {
+color: #FFFFFF;
+text-decoration: none;
+}
+h1 a:hover {
+color: #000000;
+text-decoration: none;
+}
+.description {
+position: absolute;
+top: 77px;
+left: 25px;
+color: #000000;
+font: 12px Arial, Helvetica, sans-serif;
+}
+/* Scrollbar
+----------------------------------------------- */
+html {
+scrollbar-face-color: #000000;
+scrollbar-highlight-color: #3D81EE;
+scrollbar-darkshadow-color: #3deec3;
+scrollbar-track-color: #000000;
+scrollbar-arrow-color: #3D81EE;
+scrollbar-shadow-color: #3D81EE;
+}
+/* search form */
+#searchform {
+position: absolute;
+top: 250px;
+right: 240px;
+height: 37px;
+width: 210px;
+}
+#searchform #s{
+height: 17px;
+width: 148px;
+margin: 6px 5px 0px 10px;
+padding: 3px 7px 2px 5px;
+color: #999999;
+border: none;
+}
+#searchform #searchsubmit {
+height: 24px;
+width: 24px;
+border: none;
+text-indent: -999%;
+line-height: 1px;
+margin-top: 6px;
+cursor: pointer;
+}/* ------------------------------------- main content area  */
+#main-col {
+width: 545px;
+float: left;
+margin-top: 11px;
+}
+/* main menu */
+#nav {
+height: 75px;
+}
+#nav ul{
+list-style: none;
+margin: 0px 0px 0px 25px;
+padding: 0px;
+font: bold 12px/100% Arial, Helvetica, sans-serif;
+}
+#nav ul li{
+margin: 0px 1px 0px 0px;
+padding: 0px;
+float: left;
+}
+#nav ul li a{
+padding: 5px 7px 6px 7px;
+text-decoration: none;
+color: #ffffff;
+display: block;
+}
+#nav li a:visited{
+text-decoration: none;
+color: #e6e6e6;
+}
+#nav li a:hover, #nav .current_page_item a{
+text-decoration: none;
+color: #ffffff;
+}
+#navsection {
+padding:0px;
+margin:0px;
+}
+#navsection h2 {
+display: none;
+}
+#navsection .widget, #navsection .widget-content {
+padding:0px; margin:0px;
+}
+/* sub menu */
+#subnav {
+background: #ecebeb;
+}
+#subnav ul {
+margin: 0px;
+padding: 3px 0px 18px 5px;
+list-style: none;
+font: 11px/100% Arial, Helvetica, sans-serif;
+}
+#subnav li {
+border-right: 1px solid #D8D8D8;
+padding: 0px 7px;
+margin: 0px;
+float: left;
+}
+#subnav li a, #subnav li a:visited, #subnav .page_item {
+text-decoration: none;
+color: #333333;
+}
+#subnav .current_page_item a, #subnav .current_page_item a:visited {
+color: #3b9acc;
+}
+#subnav li a:hover {
+text-decoration: none;
+color: #3b9acc;
+}
+/* Categories */
+.navigation{
+text-align:center;
+padding:15px 0px;
+}
+.navigation a{
+background:#EEE;
+padding: 3px 7px;
+line-height:10px;
+text-align:center;
+border:1px solid #FFF;
+color:#333333!important;
+}
+.hilipage{
+background:#CCCCCC!important;
+}
+.navigation a:hover{
+border:0px solid #CCC;
+}
+.topnavi{
+width:600px;
+height:30px;
+float:left;
+margin:0px;
+}
+.topnavi ul{
+list-style:none;
+margin-top:20px;
+float:left;
+}
+.topnavi li{
+float:center;
+padding-left:5px;
+width:190px;
+height:30px;
+}
+.topnavi a{
+width:190px;
+height:21px;
+text-align:left;
+padding-left:10px;
+display:block;
+padding-top:8px;
+outline:none;
+font-size:10px;
+text-transform:uppercase;
+color:#ffffff;
+background: url(http://i246.photobucket.com/albums/gg105/admnhipper/topmenufe0.jpg) no-repeat 0 0;
+}
+.topnavi a:hover{
+color:#ffffff;
+background: url(http://i246.photobucket.com/albums/gg105/admnhipper/topmenufe0.jpg) no-repeat 0 100%;
+text-decoration:none;
+}
+/* content */
+#content {
+padding: 25px 25px 15px 25px;
+width: 495px;
+background:#ffffff url("http://img228.imageshack.us/img228/4500/contje9.jpg") repeat-y;clear: both;
+overflow: hidden;
+}
+.post {
+padding: 0px;
+clear: both;
+overflow: hidden;
+}
+.post ul, .post ol {
+margin: 5px 0px 30px;
+padding-left: 30px;
+}
+.post li {
+margin: 0px;
+}
+.post .date {
+height: 50px;
+width: 45px;
+font: normal 22px Arial, Helvetica, sans-serif;
+color: #ffffff;
+text-align: center;
+padding: 0px 2px 0 0;
+line-height: 100%;
+float: left;
+}
+.post .date span {
+height: 16px;
+display: block;
+font: normal 11px Arial, Helvetica, sans-serif;
+color: #000000;
+text-align: center;
+padding-top: 5px;
+}
+.post .title {
+float: left;
+margin-left: 10px;
+width: 438px;
+}
+.postdata {
+font-size: 90%;
+color: #999999;
+}
+.postdata a, .postdata a:visited {
+color: #999999;
+text-decoration: none;
+}
+.postdata a:hover {
+color: #44a1d0;
+text-decoration: none;
+}
+.postdata .category{
+padding-left: 18px;
+float: left;
+}
+.postdata .comments{
+padding-left: 18px;
+float: right;
+}
+.mini-add-comment {
+padding-left: 12px;
+float: right;
+}
+.entry {
+padding: 10px 0px 5px;
+clear: both;
+}/* post title */
+h2 {
+color: #333333;
+margin: 3px 0 2px;
+padding-bottom: 4px;
+font: normal 150%/100% "Lucida Grande", Arial, sans-serif;
+border-bottom: dotted 1px #CCCCCC;
+}
+h2 a, h2 a:visited {
+color: #333333;
+text-decoration: none;
+}
+h2 a:hover {
+color: #44a1d0;
+text-decoration: none;
+}
+h3 {
+color: #666666;
+margin: 5px 0px 5px;
+font: bold 110%/110% "Lucida Grande", Arial, sans-serif;
+}.status-message {
+height:21px;
+margin-bottom:15px;
+color:#ffffff;
+text-align:center;
+}/* next - previous page navigation */
+.page-nav {
+clear:both;
+height:21px;
+margin-top:15px;
+color:#ffffff;
+}
+.page-nav a, .page-nav a:visited {
+color:#ffffff;
+text-decoration: none;
+}
+.page-nav a:hover {
+color: #000000;
+text-decoration: none;
+}
+.previous-entries a {
+float: left;
+padding-left: 10px;
+margin-left: 10px;
+}
+.next-entries a {
+float: right;
+padding-right: 10px;
+margin-right: 10px;
+}/* next - previous post navigation */
+.post-nav {
+clear: both;
+padding-bottom: 35px;
+margin-top: -15px;
+font-size: 95%;
+}
+.post-nav a, .post-nav a:visited {
+color: #999999;
+text-decoration: none;
+}
+.post-nav a:hover {
+color: #000000;
+text-decoration: none;
+}
+.post-nav .previous a {
+float: left;
+padding-left: 20px;
+}
+.post-nav .next a {
+float: right;
+padding-right: 20px;
+text-align: right;
+}/* ------------------------------------- comment area  */
+h3#comments {
+padding-left: 22px;
+font: normal 140%/120% Arial, Helvetica, sans-serif;
+clear: both;
+}
+h3#respond {
+padding-left: 22px;
+font: normal 140%/120% Arial, Helvetica, sans-serif;
+margin: 20px 0px 0px;
+clear: both;
+}
+h3#links {
+font: normal 140%/120% Arial, Helvetica, sans-serif;
+margin: 10px 0px 0px;
+clear: both;
+}/* comment list */
+.commentlist {
+margin: 10px 0px;
+padding-left: 45px;
+line-height: 130%;
+}
+.commentlist li{
+padding: 5px 10px;
+background: #F4F4F4;
+margin-bottom: 10px;
+}
+.commentlist cite {
+font-weight: bold;
+font-style: normal;
+font-size: 110%;
+color: #669900;
+}
+.commentlist cite a, .commentlist cite a:visited {
+color: #669900;
+}
+.commentlist small {
+margin-bottom: 5px;
+display: block;
+font-size: 87%;
+}
+.commentlist small a, .commentlist small a:visited{
+color: #999999;
+}/* ------------------------------------- footer area  */
+#footer {
+padding: 48px 0px 0px 48px;
+font-size: 87%;
+color: #ffffff;
+}
+#footer a, #footer a:visited {
+text-decoration: none;
+color: #99C9FF;
+}
+#footer a:hover {
+text-decoration: underline;
+}
+/* sidebar */
+#sidebar1-wrapper, #sidebar2-wrapper {
+width: 210px;
+color: #3D81EE;
+line-height: 160%;
+padding:0 0px 10px;
+position:relative;
+display:block;
+}
+#sidebar1-wrapper {
+float:left;
+margin-right:15px;
+}
+#sidebar2-wrapper {
+float:right;
+}
+#sidebar1, #sidebar2 {
+margin:0;
+padding:0;
+}
+#sidebar1 p, #sidebar2 p {
+margin: 0px 0px 15px;
+}
+#sidebar1 h2, #sidebar2 h2 {
+font: bold 12px/100% Arial, Helvetica, sans-serif;
+color: #ffffff;
+text-align: center;
+position:relative;
+display:block;
+position:relative;
+margin:0;
+padding: 16px 24px 7px 10px;
+}
+#sidebar1 h2 a, #sidebar1 h2 a:visited, #sidebar2 h2 a, #sidebar2 h2 a:visited {
+color: #00FF80;
+}
+#sidebar1 h2 img, #sidebar2 h2 img {
+vertical-align: middle;
+}
+#sidebar1 a, #sidebar1 a:visited, #sidebar2 a, #sidebar2 a:visited {
+color: #000000;
+text-decoration:none;
+}
+#sidebar1 a:hover, #sidebar1 a:focus, #sidebar1 a:active, #sidebar2 a:hover, #sidebar2 a:focus, #sidebar2 a:active {
+text-decoration:underline;
+}
+#sidebar1 ul, #sidebar2 ul {
+list-style: none;
+margin: 0 ;
+padding: 0 ;
+}
+#sidebar1 ul li, #sidebar2 ul li {
+padding-left: 18px ;
+}
+#sidebar1 ul li ul li, #sidebar2 ul li ul li {
+padding-left: 12px ;
+}
+#sidebar1 .widget-content, #sidebar2 .widget-content {
+margin: 0;
+padding: 5px 10px 9px 10px;
+overflow: hidden;
+}
+#sidebar1 .widget, #sidebar2 .widget {
+position:relative;
+display:block;
+margin:0;
+padding:0;
+border:none;
+clear: both;
+}/* alignments */
+.center {
+text-align: center;
+}
+img.center, img[align="center"] {
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+.left {
+float: left;
+}
+img.left, img[align="left"] {
+float:left;
+margin: 2px 10px 5px 0px;
+}
+.right {
+float: right;
+}
+img.right, img[align="right"] {
+float:right;
+margin: 2px 0px 5px 10px;
+}
+.clear {
+clear:both;
+}
+hr.clear {
+clear:both;
+visibility: hidden;
+margin: 0px;
+padding: 0px;
+}
+.hidden {
+clear: both;
+visibility: hidden;
+}/****************************************************************
+Docking Boxes core CSS: YOU MUST NOT CHANGE OR OVERRIDE THESE
+*****************************************************************/
+.dbx-clone {
+position:absolute;
+visibility:hidden;
+}
+.dbx-clone, .dbx-clone .dbx-handle-cursor {
+cursor:move !important;
+}
+.dbx-dummy {
+display:block;
+width:0;
+height:0;
+overflow:hidden;
+}
+.dbx-group, .dbx-box, .dbx-handle {
+position:relative;
+display:block;
+}
+/****************************************************************
+avoid padding, margins or borders on dbx-box,
+to reduce visual discrepancies between it and the clone.
+overall, dbx-box is best left as visually unstyled as possible
+*****************************************************************/
+.dbx-box {
+margin:0;
+padding:0;
+border:none;
+clear: both;
+}
+/****************************************************************
+otherwise, do what you like :)
+*****************************************************************/
+/* group container(s) */
+.dbx-group {
+width:210px;
+padding:0 0px 10px;
+}
+* html .dbx-group {
+width: 210px;
+padding-bottom:0;
+}/* handles */
+.dbx-handle {
+position:relative;
+margin:0;
+padding: 16px 24px 7px 10px;
+}
+* html .dbx-handle {
+width: 176px;
+}
+/* handle cursors are in a class of their own
+so they only get applied if the script is supported */
+.dbx-handle-cursor {
+cursor:move;
+}
+/* toggle images */
+a.dbx-toggle, a.dbx-toggle:visited {
+display:block;
+width:30px;
+height:45px;
+overflow:hidden;
+background:url() no-repeat;
+position:absolute;
+top:3px;
+right:5px;
+text-indent:-50px;
+text-decoration:none;
+}
+a.dbx-toggle-open, a.dbx-toggle-open:visited {
+background-position:0 0;
+}
+a.dbx-toggle-closed, a.dbx-toggle-closed:visited {
+background-position:0 -20px;
+}
+a.dbx-toggle-hilite-open, a.dbx-toggle-hilite-open:visited {
+background-position:-20px 0;
+}
+a.dbx-toggle-hilite-closed, a.dbx-toggle-hilite-closed:visited {
+background-position:-20px -20px;
+}/* keyboard navigation tooltip */
+.dbx-tooltip {
+display:block;
+position:absolute;
+margin:36px 0 0 125px;
+width:185px;
+border:1px solid #000;
+background:#ffd;
+color:#000;
+font:normal normal normal 0.85em tahoma, arial, sans-serif;
+padding:2px 4px 3px 5px;
+text-align:left;
+}
+* html .dbx-tooltip { width:210px; }/* use CSS2 system colors in CSS2 browsers
+but not safari, which doesn't support them */
+*[class="dbx-tooltip"]:lang(en) {
+border-color:InfoText;
+background:InfoBackground;
+color:InfoText;
+font:small-caption;
+font-weight:normal;
+}
+/* inner content area */
+.dbx-content {
+margin: 0;
+padding: 5px 10px 9px 10px;
+overflow: hidden;
+}
+/* toggle state of inner content area */
+.dbx-box-closed .dbx-content {
+display:block;
+height:4px;
+padding:0;
+overflow:hidden;
+}
+.dbx-box-closed .dbx-content * {
+display:none;
+}/* additional clone styles */
+.dbx-clone {
+opacity:0.8;
+-moz-opacity:0.8;
+-khtml-opacity:0.8;
+filter:alpha(opacity=80);
+}body {
+background: #000000 url( ) center top;
+}
+#page {
+background: url(http://img228.imageshack.us/img228/2742/mcdownloadslr8.jpg) no-repeat center top;
+}
+#searchform {
+background: url(  ) no-repeat right bottom;
+}
+#searchform #s{
+background: #ffffff url(http://rafaelsianfre.googlepages.com/itheme-form-field-bg.gif) no-repeat ;
+}
+#searchform #searchsubmit {
+background: url(http://img393.imageshack.us/img393/9766/ithemesidephandleizj3.jpg) no-repeat left top;
+}
+#nav {
+background: url(http://img338.imageshack.us/img338/2963/contenttopbgwi0.jpg) no-repeat left top;
+}
+#nav li a:hover, #nav .current_page_item a{
+background: url() repeat-x center;
+}
+.post .date {
+background: url(http://img88.imageshack.us/img88/2019/calendace2.jpg) no-repeat;
+}
+.postdata .category{
+background: url(http://img179.imageshack.us/img179/628/setans9.png) no-repeat;
+}
+.postdata .comments{
+background: url(http://clubdosdownloads.890m.com/piratas/Imagens/itheme-mini-comment.gif) no-repeat;
+}
+.mini-add-comment {
+background: url(http://clubdosdownloads.890m.com/piratas/Imagens/itheme-mini-down-arrow.gif) no-repeat left center;
+}
+.status-message {
+background:url(http://img265.imageshack.us/img265/622/ithemenavigationbgmr8.gif) no-repeat left center;
+}
+.page-nav {
+background:url(http://img265.imageshack.us/img265/622/ithemenavigationbgmr8.gif) no-repeat left center;
+}
+.previous-entries a {
+background: url(http://clubdosdownloads.890m.com/piratas/Imagens/itheme-navigation-left.gif) no-repeat left center;
+}
+.next-entries a {
+background: url(http://clubdosdownloads.890m.com/piratas/Imagens/itheme-navigation-right.gif) no-repeat right center;
+}
+.post-nav .previous a {
+background: url(http://clubdosdownloads.890m.com/piratas/Imagens/itheme-post-nav-previous.gif) no-repeat left center;
+}
+.post-nav .next a {
+background: url(http://clubdosdownloads.890m.com/piratas/Imagens/itheme-post-nav-next.gif) no-repeat right center;
+}
+h3#comments {
+background: url(http://clubdosdownloads.890m.com/piratas/Imagens/itheme-comments.gif) no-repeat;
+}
+h3#respond {
+background: url(http://clubdosdownloads.890m.com/piratas/Imagens/itheme-respond.gif) no-repeat;
+}
+#footer {
+background: url(http://img228.imageshack.us/img228/2569/fotua4.jpg) no-repeat;
+}
+#sidebar1 h2, #sidebar2 h2 {
+background:url(http://img132.imageshack.us/img132/8471/ithemesidephandleien9.jpg) no-repeat 0 0;
+}
+#sidebar1 ul li, #sidebar2 ul li {
+background: url(http://clubdosdownloads.890m.com/piratas/Imagens/itheme-bullet-orange.gif) no-repeat;
+}
+#sidebar1 ul li ul li, #sidebar2 ul li ul li {
+background: url(http://clubdosdownloads.890m.com/piratas/Imagens/itheme-bullet-grey.gif) no-repeat;
+}
+#sidebar1 .widget-content, #sidebar2 .widget-content {
+background: #ffffff url(http://img132.imageshack.us/img132/7236/ithemesidepbottomie7rp4.jpg) repeat-y 0 100%;
+}
+#sidebar1 .BlogArchive ul li, #sidebar2 .BlogArchive ul li {
+background: url(http://clubdosdownloads.890m.com/piratas/Imagens/itheme-mini-archive.gif) no-repeat;
+}
+#sidebar1 .Label ul li, #sidebar2 .Label ul li {
+background: url(http://img179.imageshack.us/img179/628/setans9.png) no-repeat;
+}
+#sidebar1 .LinkList ul li, #sidebar1 .List ul li, #sidebar2 .LinkList ul li, #sidebar2 .List ul li {
+background: url(http://clubdosdownloads.890m.com/piratas/Imagens/itheme-mini-blogroll.gif) no-repeat;
+}
+#sidebar1 ul li.recent-posts, #sidebar2 ul li.recent-posts {
+background: url(http://clubdosdownloads.890m.com/piratas/Imagens/itheme-mini-page.gif) no-repeat;
+}
+#sidebar1 ul li.recent-comments, #sidebar2 ul li.recent-comments {
+background: url(http://clubdosdownloads.890m.com/piratas/Imagens/itheme-mini-comment.gif) no-repeat;
+}
+#sidebar1 ul li.rss, #sidebar2 ul li.rss {
+background: url(http://clubdosdownloads.890m.com/piratas/Imagens/itheme-mini-rss.gif) no-repeat;
+}
+#sidebar1 ul li.login, #sidebar1 .Profile ul li, #sidebar2 ul li.login, #sidebar2 .Profile ul li {
+background: url(http://clubdosdownloads.890m.com/piratas/Imagens/itheme-mini-user.gif) no-repeat;
+}
+#sidebar1 ul li.check, #sidebar2 ul li.check {
+background: url(http://clubdosdownloads.890m.com/piratas/Imagens/itheme-mini-check.gif) no-repeat;
+}
+#sidebar1 ul li.wordpress, #sidebar2 ul li.wordpress {
+background: url(http://clubdosdownloads.890m.com/piratas/Imagens/itheme-mini-wp.gif) no-repeat;
+}
+.dbx-handle {
+background:url(http://clubdosdownloads.890m.com/piratas/Imagens/itheme-sidep-handle.png) no-repeat 0 0;
+}
+.dbx-content {
+background: #ffffff url(http://img132.imageshack.us/img132/7236/ithemesidepbottomie7rp4.jpg) repeat-y 0 100%;}
+/* dock - bottom */
+#dock {
+width: 100%;
+position: absolute;
+right: 130px;
+}
+#dock a, #dock a:visited, #dock a:hover {
+text-decoration: none;
+color: #000000;
+}
+.dock-container {
+position: absolute;
+height: 45px;
+background: url(  );
+padding-left: 20px;
+}
+a.dock-item {
+display: block;
+font: bold 12px Arial, Helvetica, sans-serif;
+width: 40px;
+color: #000;
+bottom: 0px;
+position: absolute;
+text-align: center;
+}
+.dock-item span {
+display: none;
+padding-left: 20px;
+}
+.dock-item img {
+border: none;
+margin: 5px 10px 0px;
+width: 100%;
+}
+
+]]></b:skin>
+
+<!--[if lt IE 7]>
+<style type="text/css">
+#searchform {
+	background: url(http://mftoik.googlepages.com/itheme-searchform-bg-ie7.gif) no-repeat right bottom;
+}
+#searchform #searchsubmit { 
+	background: url(http://mftoik.googlepages.com/itheme-search-btn-ie7.gif) no-repeat left top;
+}
+.dbx-handle, #sidebar h2, #sidebar1 h2, #sidebar2 h2 {
+	background:url(http://mftoik.googlepages.com/itheme-sidep-handle-ie7.gif) no-repeat 0 0; 
+}
+a.dbx-toggle, a.dbx-toggle:visited {
+	background:url(http://i33.tinypic.com/2v01h68.jpg) no-repeat;
+}
+.dbx-content, #sidebar .widget-content  {
+	background: url(http://i38.tinypic.com/tan3vb.jpg) no-repeat 0 100%;
+}
+#nav {
+	background: url(http://mftoik.googlepages.com/itheme-content-top-bg-ie7.gif) no-repeat left top;
+}
+#footer {
+	background: url(http://mftoik.googlepages.com/itheme-content-bottom-bg-ie7.gif) no-repeat;
+}
+</style>
+<![endif]-->
+	
+<script src='http://www.mixdownloads.site88.net/wp-content/themes/i3theme-1-6-midnightblue/dbx.js' type='text/javascript'/>
+<script type='text/javascript'>
+function dbxInitiate(gid){
+	container = document.getElementById(gid);
+	if(container == null) {
+		return;
+	}
+	eles2 = container.getElementsByTagName(&#39;h2&#39;);
+	for(var i=0;i&lt;eles2.length;i++){
+			eles2[i].className = &#39;dbx-handle&#39;;
+	};
+	eles = container.getElementsByTagName(&#39;div&#39;);
+	for(var i=0; i&lt;eles.length; i++){
+		if(eles[i].className == &#39;widget-content&#39;){
+			eles[i].className = &#39;dbx-content&#39;;
+		}
+		if(/widget/i.test(this.eles[i].className)){
+			eles[i].className += &#39; dbx-box&#39;;
+		}
+	};
+};
+</script>
+<script type='text/javascript'>
+window.onload = function()
+{
+dbxInitiate(&#39;sidebar1&#39;);
+dbxInitiate(&#39;sidebar2&#39;);
+//initialise the docking boxes manager
+var manager = new dbxManager(&#39;main&#39;);
+//create new docking boxes group
+var sidebar = new dbxGroup(
+	&#39;sidebar1&#39;,
+	&#39;vertical&#39;,
+	&#39;7&#39;,
+	&#39;no&#39;,
+	&#39;10&#39;,
+	&#39;yes&#39;,
+	&#39;open&#39;,
+	&#39;open&#39;,
+	&#39;close&#39;,
+	&#39;click-down and drag to move this box&#39;,
+	&#39;click to %toggle% this box&#39;,
+	&#39;use the arrow keys to move this box&#39;,
+	&#39;, or press the enter key to %toggle% it&#39;,
+	&#39;%mytitle%  [%dbxtitle%]&#39;
+	);
+var sidebar = new dbxGroup(
+	&#39;sidebar2&#39;,
+	&#39;vertical&#39;,
+	&#39;7&#39;,
+	&#39;no&#39;,
+	&#39;10&#39;,
+	&#39;yes&#39;,
+	&#39;open&#39;,
+	&#39;open&#39;,
+	&#39;close&#39;,
+	&#39;click-down and drag to move this box&#39;,
+	&#39;click to %toggle% this box&#39;,
+	&#39;use the arrow keys to move this box&#39;,
+	&#39;, or press the enter key to %toggle% it&#39;,
+	&#39;%mytitle%  [%dbxtitle%]&#39;
+	);
+};
+</script>
+
+<style media='print' type='text/css'>
+body {
+	background: #ffffff url(none);
+	font: 12px/16px Arial, Helvetica, sans-serif;
+	padding: 0 40px;
+	margin: 0px;
+	color: #000000;
+}
+#page {
+	background: none;
+}
+#wrapper {
+	width: 100%;
+	margin: 0px;
+}
+#topheader {
+	border-bottom: solid 1px #000000;
+	height: 100px;
+	margin-bottom: 15px;
+}
+
+h1 {
+	color: #000000;
+	margin: 0px;
+	left: 0;
+}
+h1 a, h1 a:visited {
+	color: #000000;
+	text-decoration: none;
+}
+h2 {
+	border: none;
+}
+.description {
+	left: 0;
+}
+
+#left-col {
+	width: 100%;
+}
+
+#content {
+	padding: 0;
+	background: #ffffff;
+	width: 100%;
+}
+.post {
+	padding: 0;
+	background: none;
+}
+.post .date {
+	height: auto;
+	width: 100%;
+	background: none;
+	font: normal 11px Arial, Helvetica, sans-serif;
+	color: #666666;
+	text-align: left;
+	padding: 0;
+	line-height: 100%;
+}
+.post .date span {
+	height: auto;
+	text-align: left;
+	padding: 0;
+	display: inline;
+}
+.post .title {
+	clear: both;
+	width: 100%;
+	margin: 0;
+}
+.postdata .category{
+	background: none;
+	padding: 0;
+	float: left;
+}
+.postdata .comments{
+	background: none;
+	padding: 0;
+	float: right;
+}
+
+h3#comments {
+	background: none;
+	padding-left: 0;
+	font: bold 14px/120% Arial, Helvetica, sans-serif;
+	clear: both;
+}
+
+.commentlist li, .commentlist .alt {
+	border: none !important;
+}
+
+</style>
+<script>
+function click() {
+if (event.button==2||event.button==3) {
+oncontextmenu=&#39;return false&#39;;
+}
+}
+document.onmousedown=click
+document.oncontextmenu = new Function(&quot;return false;&quot;)
+</script>
+
+
+</head>
+<body>
+  <div class='navbar section' id='navbar'><div class='widget Navbar' id='Navbar1'><script type='text/javascript'>
+    function setAttributeOnload(object, attribute, val) {
+      if(window.addEventListener) {
+        window.addEventListener(&quot;load&quot;,
+          function(){ object[attribute] = val; }, false);
+      } else {
+        window.attachEvent(&#39;onload&#39;, function(){ object[attribute] = val; });
+      }
+    }
+  </script>
+<iframe frameborder='0' height='30px' id='navbar-iframe' marginheight='0' marginwidth='0' scrolling='no' src='http://www.blogger.com/navbar.g?targetBlogID=6327913067947300552&amp;blogName=MC-Downloads&amp;publishMode=PUBLISH_MODE_BLOGSPOT&amp;navbarType=BLACK&amp;layoutType=LAYOUTS&amp;homepageUrl=http%3A%2F%2Fmc-downloads.blogspot.com%2F&amp;searchRoot=http%3A%2F%2Fmc-downloads.blogspot.com%2Fsearch' title='Blogger Navigation and Search' width='100%'/>
+<div/></div></div>
+<script type='text/javascript'>
+	$(document).ready(
+		function()
+		{
+			$(&#39;#dock&#39;).Fisheye(
+				{
+					maxWidth: 60,
+					items: &#39;a&#39;,
+					itemsText: &#39;span&#39;,
+					container: &#39;.dock-container&#39;,
+					itemWidth: 40,
+					proximity: 80,
+					alignment : &#39;left&#39;,
+					valign: &#39;bottom&#39;,
+					halign : &#39;center&#39;
+				}
+			)--
+		}
+	);
+</script>
+
+<div id='page'>
+<div id='wrapper'>
+<div class='section' id='headerwrapper'><div class='widget Header' id='Header1'>
+<div id='topheader'>
+<h1><a href='http://mc-downloads.blogspot.com/'>MC-Downloads</a></h1>
+<div class='description'>
+</div>
+<form action='/search' id='searchform' method='get'>
+<div><input id='s' name='q' onblur='if (this.value == &quot;&quot;) {this.value = &quot;Search&quot;;}' onfocus='if (this.value == &quot;Search&quot;) {this.value = &quot;&quot;;}' type='text' value='Search'/>
+<input id='searchsubmit' type='submit' value='Go'/>
+</div>
+</form>
+</div>
+</div></div>
+<ul class='menu1'>
+<li><a href='/'><b>Inicio</b></a></li>
+
+<li><a href='http://comobaixardaweb.blogspot.com' target='_blank'><b>Como Baixar?</b></a></li>
+<li><a href='#' onclick='window.external.AddFavorite(&quot;http://www.mc-downloads.blogspot.com/&quot;,&quot;MC Downloads&quot;);'>Favoritos</a></li>
+<li><a href='http://mc-downloads.blogspot.com/search/label/Programas' target='_blank'><b>Programas</b></a></li>
+<li><a href='http://mc-downloads.blogspot.com/2008/08/seja-nosso-parceiro_12.html' target='_blank'><b>Parceria</b></a></li>
+<li><a href='http://alllgames.blogspot.com/' target='_blank'><b>Jogos</b></a></li>
+<li><a href='http://www.ps2advanced.com/' target='_blank'><b>Jogos PS2</b></a></li>
+<li><a href='http://www.kotonette.com/' target='_blank'><b>Melhor Parceiro</b></a></li>
+<li><a href='http://mc-downloads.blogspot.com/search/label/M%C3%BAsicas' target='_blank'><b>Músicas</b></a></li>
+<li><a href='http://www.kotonette.com/' target='_blank'><b>Revistas</b></a></li>
+
+<li><a href='http://mc-downloads.blogspot.com/search/label/Wallpapers' target='_blank'><b>Wallpapers</b></a></li>
+</ul>
+<form action='/search' id='searchform' method='get'>
+<div>
+<input id='s' name='q' onblur='if (this.value == &quot;&quot;) {this.value = &quot;Buscar&quot;;}' onfocus='if (this.value == &quot;Buscar&quot;) {this.value = &quot;&quot;;}' type='text' value='Buscar'/>
+<input id='searchsubmit' type='submit' value='Go'/>
+</div>
+</form>
+
+<div id='sidebar1-wrapper'>
+
+<b:section class='dbx-group' id='sidebar1' preferred='yes'>
+<b:widget id='Label1' locked='false' title='Menu' type='Label'>
+<b:includable id='main'>
+  <b:if cond='data:title'>
+    <h2><data:title/></h2>
+  </b:if>
+  <div class='widget-content'>
+    <ul>
+    <b:loop values='data:labels' var='label'>
+      <li>
+        <b:if cond='data:blog.url == data:label.url'>
+          <data:label.name/>
+        <b:else/>
+          <a expr:href='data:label.url'><data:label.name/></a>
+        </b:if>
+       </li>
+    </b:loop>
+    </ul>
+
+    <b:include name='quickedit'/>
+  </div>
+</b:includable>
+</b:widget>
+</b:section>
+
+</div>
+
+<div id='main-col'>
+<div class='section' id='navsection'><div class='widget LinkList' id='LinkList1'>
+<div id='nav'>
+
+</div>
+</div></div>
+
+<div id='content'>
+
+<b:section id='mainsection' showaddelement='no'>
+<b:widget id='Blog1' locked='true' title='Postagens no blog' type='Blog'>
+<b:includable id='nextprev'>
+<div class='page-nav'>
+<b:if cond='data:newerPageUrl'>
+<span class='previous-entries'>
+<a expr:href='data:newerPageUrl' expr:title='data:newerPageTitle'>
+<data:newerPageTitle/>
+</a>
+</span> 
+</b:if>
+<b:if cond='data:olderPageUrl'>
+<span class='next-entries'>
+<a expr:href='data:olderPageUrl' expr:title='data:olderPageTitle'>
+<data:olderPageTitle/>
+</a>
+</span>
+</b:if>
+</div>
+</b:includable>
+<b:includable id='backlinks' var='post'>
+<a name='links'/>
+<h3 id='links'>
+<data:post.numBacklinks/> <data:post.backlinksLabel/>
+</h3> 
+<b:if cond='data:post.numBacklinks != 0'>
+<dl class='comments-block' id='comments-block'>
+<b:loop values='data:post.backlinks' var='backlink'>
+<div class='collapsed-backlink backlink-control'>
+<dt class='comment-title'> 
+<span class='backlink-toggle-zippy'>&#160;</span>
+<a expr:href='data:backlink.url' rel='follow'><data:backlink.title/></a>
+<b:include data='backlink' name='backlinkDeleteIcon'/>
+</dt>
+<dd class='comment-body collapseable'>
+<data:backlink.snippet/>
+</dd>
+<dd class='comment-footer collapseable'>
+<span class='comment-author'><data:post.authorLabel/> <data:backlink.author/></span>
+<span class='comment-timestamp'><data:post.timestampLabel/> <data:backlink.timestamp/></span>
+</dd>
+</div>
+</b:loop>
+</dl>
+</b:if>
+<a class='comment-link' expr:href='data:post.createLinkUrl' expr:id='data:widget.instanceId + &quot;_backlinks-create-link&quot;' target='_blank'><data:post.createLinkLabel/></a>
+</b:includable>
+<b:includable id='post' var='post'>
+<a expr:name='data:post.id'/>
+<div class='post'>
+<script type='text/javascript'>
+	var timestamp = &quot;<data:post.timestamp/>&quot;;
+	if (timestamp != &#39;&#39;) {
+		var timesplit = timestamp.split(&quot;,&quot;);
+		var date_yyyy = timesplit[2];
+		var timesplit = timesplit[1].split(&quot; &quot;);
+		var date_dd = timesplit[2];
+		var date_mmm = timesplit[1].substring(0, 3);
+	}
+</script>
+<div class='date'>
+<span><script type='text/javascript'>document.write(date_mmm);</script></span>
+<script type='text/javascript'>document.write(date_dd);</script>
+</div>
+<div class='title'>
+<h2>
+<b:if cond='data:post.link'>
+<a expr:href='data:post.link' expr:title='&quot;Permanent Link to &quot; + data:post.title' rel='bookmark'><data:post.title/></a>
+<b:else/>
+<b:if cond='data:post.url'>
+<a expr:href='data:post.url' expr:title='&quot;Permanent Link to &quot; + data:post.title' rel='bookmark'><data:post.title/></a>
+<b:else/>
+<data:post.title/>
+</b:if>
+</b:if>
+<b:include data='post' name='postQuickEdit'/>
+</h2>
+<div class='postdata'>
+<b:if cond='data:post.labels'>
+<span class='category'>
+<b:loop values='data:post.labels' var='label'>
+<a expr:href='data:label.url' rel='tag'><data:label.name/></a><b:if cond='data:label.isLast != &quot;true&quot;'>,</b:if>
+</b:loop>
+</span>
+</b:if>
+<b:if cond='data:blog.pageType != &quot;item&quot;'>
+<b:if cond='data:post.allowComments'>
+<span class='comments'>
+<a expr:href='data:post.url + &quot;#comments&quot;'><b:if cond='data:post.numComments == 1'>1 <data:top.commentLabel/><b:else/><data:post.numComments/> <data:top.commentLabelPlural/></b:if></a>
+</span>
+</b:if>
+<b:else/>
+<b:if cond='data:post.allowComments'>
+<span class='right mini-add-comment'>
+<a expr:href='data:post.addCommentUrl' expr:onclick='data:post.addCommentOnclick'>Add comments</a>
+</span>
+</b:if>
+</b:if>
+</div>
+</div>
+<div class='entry'>
+<p><data:post.body/></p>
+<center><a href='http://www.downlivre.info/' target='_blank'><img border='0' height='60' src='http://i41.tinypic.com/2z9b8ed.gif' width='468'/></a>
+</center>
+<div style='clear: both;'/> <!-- clear for photos floats --><center><script language='JavaScript' src='http://baixar-down.net76.net/DownFree/Banners-468x60.js' type='text/javascript'/></center>
+</div>
+</div>
+</b:includable>
+<b:includable id='status-message'>
+<b:if cond='data:navMessage'>
+<div class='status-message'>
+<data:navMessage/>
+</div>
+</b:if>
+</b:includable>
+<b:includable id='comment-form' var='post'>
+  <div class='comment-form'>
+    <a name='comment-form'/>
+    <h4 id='comment-post-message'><data:postCommentMsg/></h4>
+    <p><data:blogCommentMessage/></p>
+    <data:blogTeamBlogMessage/>
+    <a expr:href='data:post.commentFormIframeSrc' id='comment-editor-src'/>
+    <iframe allowtransparency='true' class='blogger-iframe-colorize' frameborder='0' height='275' id='comment-editor' scrolling='no' src='' width='100%'/>
+    <data:post.iframeColorizer/>
+  </div>
+</b:includable>
+<b:includable id='backlinkDeleteIcon' var='backlink'>
+			  <span expr:class='&quot;item-control &quot; + data:backlink.adminClass'>
+			    <a expr:href='data:backlink.deleteUrl' expr:title='data:top.deleteBacklinkMsg'>
+			      <span class='delete-comment-icon'>&#160;</span>
+			    </a>
+			  </span>
+			</b:includable>
+<b:includable id='postQuickEdit' var='post'>
+			  <b:if cond='data:post.editUrl'>
+			    <span expr:class='&quot;item-control &quot; + data:post.adminClass'>
+			      <a expr:href='data:post.editUrl' expr:title='data:top.editPostMsg'>
+			        <span class='quick-edit-icon'>&#160;</span>
+			      </a>
+			    </span>
+			  </b:if>
+			</b:includable>
+<b:includable id='main' var='top'>
+<b:include data='top' name='status-message'/>
+<data:adStart/>
+<b:loop values='data:posts' var='post'>
+<b:include data='post' name='post'/>
+<b:if cond='data:blog.pageType == &quot;item&quot;'>
+<b:include data='post' name='comments'/>
+</b:if>
+<b:if cond='data:post.includeAd'>
+<data:adEnd/>
+<data:adCode/>
+<data:adStart/>
+</b:if>
+</b:loop>
+<data:adEnd/>
+<b:include name='nextprev'/>
+</b:includable>
+<b:includable id='commentDeleteIcon' var='comment'>
+			  <span expr:class='&quot;item-control &quot; + data:comment.adminClass'>
+			    <a expr:href='data:comment.deleteUrl' expr:title='data:top.deleteCommentMsg'>
+			      <span class='delete-comment-icon'>&#160;</span>
+			    </a>
+			  </span>
+			</b:includable>
+<b:includable id='feedLinks'>
+			  <b:if cond='data:blog.pageType != &quot;item&quot;'> <!-- Blog feed links -->
+			    <b:if cond='data:feedLinks'>
+			        <b:include data='feedLinks' name='feedLinksBody'/>
+			    </b:if>
+
+			    <b:else/> <!--Post feed links -->
+			      <b:loop values='data:posts' var='post'>
+			        <b:if cond='data:post.allowComments'>
+			          <b:if cond='data:post.feedLinks'>
+			            <b:include data='post.feedLinks' name='feedLinksBody'/>
+			          </b:if>
+			        </b:if>
+			      </b:loop>
+			  </b:if>
+			</b:includable>
+<b:includable id='feedLinksBody' var='links'>
+				<data:feedLinksMsg/>
+				<b:loop values='data:links' var='f'>
+				<a expr:href='data:f.url' expr:type='data:f.mimeType' target='_blank'><data:f.name/> (<data:f.feedType/>)</a>
+				</b:loop>
+			</b:includable>
+<b:includable id='comments' var='post'>
+<a name='comments'/>
+<b:if cond='data:post.allowComments'>
+<h3 id='comments'>
+<strong>
+<b:if cond='data:post.numComments == 1'>
+  1 <data:commentLabel/>
+<b:else/>
+  <data:post.numComments/> <data:commentLabelPlural/>
+</b:if>
+</strong>
+</h3> 
+<ol class='commentlist'>
+<b:loop values='data:post.comments' var='comment'>
+<li>
+<cite>
+<b:if cond='data:comment.authorUrl'>
+  <a expr:href='data:comment.authorUrl' rel='nofollow'><data:comment.author/></a>
+<b:else/>
+  <data:comment.author/>
+</b:if>
+<b:include data='comment' name='commentDeleteIcon'/>
+</cite>
+<br/>
+<small class='commentmetadata'>
+  <a expr:href='data:comment.url' title='comment permalink'>
+	<data:comment.timestamp/>
+  </a>
+</small>
+<b:if cond='data:comment.isDeleted'>
+  <em><data:comment.body/></em>
+<b:else/>
+  <p><data:comment.body/></p>
+</b:if>
+</li>
+</b:loop>
+</ol>
+<h3 id='respond'>
+<a expr:href='data:post.addCommentUrl' expr:onclick='data:post.addCommentOnclick'><data:postCommentMsg/></a>
+</h3>
+</b:if>
+<div expr:id='data:widget.instanceId + &quot;_backlinks-container&quot;'>
+<b:if cond='data:post.showBacklinks'>
+<b:include data='post' name='backlinks'/>
+</b:if>
+</div>
+</b:includable>
+</b:widget>
+<b:widget id='HTML2' locked='false' title='' type='HTML'>
+<b:includable id='main'>
+  <!-- only display title if it's non-empty -->
+  <b:if cond='data:title != &quot;&quot;'>
+    <h2 class='title'><data:title/></h2>
+  </b:if>
+  <div class='widget-content'>
+    <data:content/>
+  </div>
+
+  <b:include name='quickedit'/>
+</b:includable>
+</b:widget>
+</b:section>
+
+</div>
+
+<div id='footer'>
+
+</div>
+
+</div>
+
+<div id='sidebar2-wrapper'>
+
+<b:section class='dbx-group' id='sidebar2' preferred='yes'>
+<b:widget id='HTML1' locked='false' title='Nosso Banner' type='HTML'>
+<b:includable id='main'>
+  <!-- only display title if it's non-empty -->
+  <b:if cond='data:title != &quot;&quot;'>
+    <h2 class='title'><data:title/></h2>
+  </b:if>
+  <div class='widget-content'>
+    <data:content/>
+  </div>
+
+  <b:include name='quickedit'/>
+</b:includable>
+</b:widget>
+</b:section>
+
+</div>
+
+<hr class='hidden'/>
+
+</div>
+
+</div>
+
+</body>
+<script type='text/javascript'>
+var gaJsHost = ((&quot;https:&quot; == document.location.protocol) ? &quot;https://ssl.&quot; : &quot;http://www.&quot;);
+document.write(unescape(&quot;%3Cscript src=&#39;&quot; + gaJsHost + &quot;google-analytics.com/ga.js&#39; type=&#39;text/javascript&#39;%3E%3C/script%3E&quot;));
+</script>
+<script type='text/javascript'>
+var pageTracker = _gat._getTracker(&quot;UA-5378732-1&quot;);
+pageTracker._trackPageview();
+</script></html>

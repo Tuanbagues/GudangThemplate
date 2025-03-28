@@ -1,0 +1,1466 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html expr:dir='data:blog.languageDirection' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+<link href='http://4.bp.blogspot.com/-1kIjQMAvw5M/U6bhOt2vG4I/AAAAAAAALJU/JiEIOfEOV_Y/s1600/logorodape.pngo' rel='shortcut icon'/>
+<link href='http://2.bp.blogspot.com/-8oD8HncpbGw/U6OF7cWhYTI/AAAAAAAALAc/qqFFxuYicFE/s320/favicon.ico' rel='shortcut icon'/>
+<script src='http://vertvonline.esy.es/vertvonline/vertvonline-jquery-1.4.2.min.js' type='text/javascript'/> 
+<script src='http://vertvonline.esy.es/vertvonline/vertvonline-jquery.jcarousel.min.js' type='text/javascript'/>	  
+<script src='http://vertvonline.esy.es/vertvonline/vertvonline-scripts.js' type='text/javascript'/>
+<link href='http://vertvonline.esy.es/vertvonline/vertvonline-canaistv.css' rel='stylesheet' type='text/css'/>	  
+<link href='http://vertvonline.esy.es/vertvonline/vertvonline-skin.css ' rel='stylesheet' type='text/css'/>
+<head>
+<meta content='Assista tv online no melhor e mais completo site de tv online grátis, Temos os canais Record, SBT, RedeTV, Fox Sports, Cartoon, Filmes Online, Chaves, Novelas, Espn.' name='description'/>
+<meta content='tv online, ver tv online, assistir tv online, ver tv gratis, tv online ao vivo, ver tv online gratis, vto, assistir tv, futebol ao vivo, tv online gratis' name='keywords'/>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
+<meta content='blogger' name='generator'/>
+
+    <b:include data='blog' name='all-head-content'/>
+    <title>Ver Tv Online - Assistir Tv Online - Tv No PC - Tv Gratis - VTO Ver Tv Xat</title>
+    <b:skin><![CDATA[/*]]></b:skin>
+<style type='text/css'>
+/*
+Theme Name: Assistir TV Online
+Theme URI: http://vertvxat.blogspot.com.br/
+Description: Max Mega TV - Desenvolvimento de Sites
+Author: Max Mega TV
+Author URI: http://vertvxat.blogspot.com.br/
+Version: 1.1
+*/
+
+/* ------------------------------------------------------------ */
+/* RESET */
+/* ------------------------------------------------------------ */
+html, body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, fieldset, input, th, td, a, span {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-weight: normal;
+	line-height: 1;
+}
+
+* {
+	padding: 0;
+	margin: 0;
+}
+
+ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+ul li {
+	list-style: none;
+}
+
+img {
+	border: 0;
+}
+
+a {
+	color: #4b4b4b;
+	text-decoration: none;
+	margin: 0px;
+	padding: 0px;
+	font-size: 12px;
+}
+
+a:hover {
+	color: #4b4b4b;
+}
+
+.clear {
+	clear: both;
+}
+
+.just {
+	text-align: justify;
+}
+
+.right {
+	float: right;
+}
+
+h1 {
+	font-size: 28px;
+}
+
+h2 {
+	font-size: 25px;
+}
+
+h3 {
+	font-size: 20px;
+}
+
+h4 {
+	font-size: 18px;
+}
+
+p {
+	margin-bottom: 10px;
+}
+
+dl {
+	margin: 0 0 24px 0;
+}
+
+dt {
+	font-weight: bold;
+}
+
+dd {
+	margin-bottom: 18px;
+}
+
+strong {
+	font-weight: bold;
+}
+
+cite, em, i {
+	font-style: italic;
+}
+
+big {
+	font-size: 131.25%;
+}
+
+ins {
+	background: #ffc;
+	text-decoration: none;
+}
+
+blockquote {
+	font-style: italic;
+	padding: 0 3em;
+}
+
+blockquote cite, blockquote em, blockquote i {
+	font-style: normal;
+}
+
+pre {
+	background: #f7f7f7;
+	color: #222;
+	line-height: 18px;
+	margin-bottom: 18px;
+	overflow: auto;
+	padding: 1.5em;
+}
+
+abbr, acronym {
+	border-bottom: 1px dotted #666;
+	cursor: help;
+}
+
+sup, sub {
+	height: 0;
+	line-height: 1;
+	position: relative;
+	vertical-align: baseline;
+}
+
+sup {
+	bottom: 1ex;
+}
+
+sub {
+	top: .5ex;
+}
+
+button::-moz-focus-inner,
+input[type=&quot;reset&quot;]::-moz-focus-inner,
+input[type=&quot;button&quot;]::-moz-focus-inner,
+input[type=&quot;submit&quot;]::-moz-focus-inner,
+input[type=&quot;file&quot;] &gt; input[type=&quot;button&quot;]::-moz-focus-inner {
+	border:0;
+	padding:0;
+	margin:0;
+}
+
+input[type=text]:focus, 
+input[type=password]:focus, 
+input[type=button]:focus, 
+select:focus, 
+textarea:focus {
+     outline: none;
+}
+
+@font-face {
+	font-family: &#39;Aller&#39;;
+	src: url(&#39;fontes/aller_rg.eot&#39;);
+	src: url(&#39;fontes/aller_rg.eot?#iefix&#39;) format(&#39;embedded-opentype&#39;),
+			 url(&#39;fontes/aller_rg.woff&#39;) format(&#39;woff&#39;),
+			 url(&#39;fontes/aller_rg.ttf&#39;) format(&#39;truetype&#39;),
+			 url(&#39;fontes/aller_rg.svg#aller_rg&#39;) format(&#39;svg&#39;);
+	font-weight: normal;
+	font-style: normal;
+}
+
+a, a:hover, li, .menu ul li, .menu ul li:hover, .mx, .mx:hover, .sidebar_widget:hover, .sidebar_widget, button, .close:hover, .close {
+	-webkit-transition: all 0.25s ease-in-out;
+	-moz-transition: all 0.25s ease-in-out;
+	-o-transition: all 0.25s ease-in-out;
+	-ms-transition: all 0.25s ease-in-out;
+	transition: all 0.25s ease-in-out;
+}
+
+
+/* ------------------------------------------------------------ */
+/* ESTRUTURA */
+/* ------------------------------------------------------------ */
+body {
+	background: #1E90FF;
+	margin: auto;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #3a3a3a;
+}
+
+.page {
+	width: 1000px;
+	background: url(http://3.bp.blogspot.com/-CUurVuVCFNA/U6bH1O-G9UI/AAAAAAAALFo/g4k9fjYe_sM/s1600/img-page.jpg) repeat-y;
+	margin: auto;
+	font-size: 12px;
+}
+
+
+/* ------------------------------------------------------------ */
+/* HEADER */
+/* ------------------------------------------------------------ */
+.header_fundo {
+	background: url(imagens/) no-repeat center;
+	width: 100%;
+	height: 206px;
+	margin: auto;
+}
+
+.header {
+	background: url(http://2.bp.blogspot.com/-_SA0C_priu0/U6bJDvZTJWI/AAAAAAAALF0/foPfml0noGA/s1600/img-header.jpg) center no-repeat;
+	width: 1000px;
+	height: 206px;
+	margin: auto;
+}
+
+.logo {
+	width: 239px;
+	height: 122px;
+	float: left;
+	margin-left: 15px;
+	margin-top: 13px;
+}
+
+.logo h1 {
+	margin: 0;
+	padding: 0;
+	background: none;
+}
+
+.logo a {
+	display: block;
+	float: left;
+	width: 239px;
+	height: 122px;
+	background: url(http://1.bp.blogspot.com/-fqountGBfxE/U6bfFW0tjcI/AAAAAAAALJA/T7sgTD3HYh0/s1600/logo.png) no-repeat center;
+	text-indent: -9999em;
+	overflow: hidden;
+}
+
+
+/* ------------------------------------------------------------ */
+/* BANNERS */
+/* ------------------------------------------------------------ */
+.banner_728x90 {
+	width: 728px;
+	height: 90px;
+	background: #e6e6e6;
+	border: 1px #aeaeae solid;
+	float: right;
+	margin-top: 35px;	
+}
+
+.banner_468x60 {
+	width: 468px;
+	height: 60px;
+	border: 1px solid #c0c0c0;
+	margin: auto;
+	padding: 1px;
+	margin-top: 3px;
+}
+
+.banner_300x250_1 {
+	width: 300px;
+	height: 250px;
+	background: #e6e6e6;
+	border: 1px #aeaeae solid;
+	margin: auto;
+	margin-top: 70px;
+}
+
+.banner_300x250_2 {
+	width: 300px;
+	height: 250px;
+	background: #e6e6e6;
+	border: 1px #aeaeae solid;
+	margin: auto;
+	margin-top: 35px;
+}
+
+
+/* ------------------------------------------------------------ */
+/* MENU */
+/* ------------------------------------------------------------ */
+.menu {
+	width: 970px;
+	height: 43px;
+	float: left;
+	margin-top: 17px;
+	margin-left: 15px;
+	font-size: 15px;
+	overflow: hidden;
+}
+
+.menu ul {
+	background: url(http://2.bp.blogspot.com/-8z4fNJKffjY/U6bJ053JHjI/AAAAAAAALF8/QHDdmr9sL0A/s1600/linha_menu.png) no-repeat left;
+	width: 970px;
+	height: 43px;
+	overflow: hidden;
+	padding-left: 2px;
+}
+
+.menu ul li {
+	background: url(http://2.bp.blogspot.com/-8z4fNJKffjY/U6bJ053JHjI/AAAAAAAALF8/QHDdmr9sL0A/s1600/linha_menu.png) repeat-y right ;
+	height: 43px;
+	list-style: none;
+	margin: auto;
+	float: left;
+	text-align: center;	
+}
+
+.menu ul li:hover {
+	background: #323232 url(http://2.bp.blogspot.com/-8z4fNJKffjY/U6bJ053JHjI/AAAAAAAALF8/QHDdmr9sL0A/s1600/linha_menu.png) repeat-y right ;
+}
+
+.menu ul li a {
+	text-decoration: none;
+	color: #FFF;
+	text-shadow: 0px 0px 5px #000000;
+	float: left;
+	padding-right: 17px;
+	padding-left: 15px;
+	padding-top: 15px;
+}
+
+.menu ul li a:hover {
+}
+
+
+/* ------------------------------------------------------------ */
+/* SLIDE DE CANAIS */
+/* ------------------------------------------------------------ */
+.canais {
+	background: url(http://3.bp.blogspot.com/-uiLOLrW9-TI/U6bLMWxTwwI/AAAAAAAALGI/rEotQamLt78/s1600/canais_box.jpg) repeat-y center;
+	width: 998px;
+	height: 220px;
+	margin: auto;
+	margin-top: -10px;
+	border-bottom: 1px solid #e6e6e6;
+}
+
+
+/* ------------------------------------------------------------ */
+/* TV */
+/* ------------------------------------------------------------ */
+.box_tv {
+	width: 472px;
+	height: 502px;
+	float: left;
+	margin-left: 11px;
+	margin-top: 10px;
+	border-right: 1px solid #dfdfdf;
+	padding-right: 9px;
+}
+
+.player {
+	width: 468px;
+	height: 380px;
+	border: 1px solid #c0c0c0;
+	margin: auto;
+	padding: 1px;
+	display: none;
+}
+
+.player_close {
+	width: 468px;
+	height: 365px;
+	margin: auto;
+	padding: 1px;
+	text-align: center;
+	padding-top: 15px;
+}
+
+.player_close p span {
+	font-size: 15px;
+	font-weight: bold;
+}
+
+.social {
+	width: 481px;
+	height: 30px;
+	margin: auto;
+	padding-top: 10px;
+	padding-bottom: 11px;
+}
+
+.facebook {
+	background: url(http://4.bp.blogspot.com/-qoNdjYVUZAU/U6bLrZy4W_I/AAAAAAAALGQ/s65bHd1VpcU/s1600/facebook.png) no-repeat left;
+	padding-right: 25px;
+	height: 23px;
+	padding-left: 33px;
+	padding-top: 5px;
+	float: left;
+	margin-left: 50px;
+}
+
+.twitter {
+	background: url(http://3.bp.blogspot.com/--hRmnARYLz0/U6bMD9OQQ6I/AAAAAAAALGY/iVGiLr7A-6Q/s1600/twitter.png) no-repeat left;
+	padding-right: 25px;
+	height: 23px;
+	padding-left: 33px;
+	padding-top: 5px;
+	float: left;
+}
+
+.g_plus {
+	background: url(http://4.bp.blogspot.com/-VgLpzqJF0cc/U6oSriZAmwI/AAAAAAAALKU/ct58hkLJR1g/s1600/google_plus.png) no-repeat left;
+	padding-right: 25px;
+	height: 23px;
+	padding-left: 33px;
+	padding-top: 5px;
+	float: left;
+}
+
+
+/* ------------------------------------------------------------ */
+/* CHAT */
+/* ------------------------------------------------------------ */
+.chat_box {
+	width: 487px;
+	height: 502px;
+	float: right;
+	margin-right: 11px;
+	margin-top: 10px;
+}
+
+.programacao {
+	background: #f4f4f4;
+	width: 382px;
+	height: 39px;
+	float: left;
+	border: 1px solid #c0c0c0;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+}
+
+.programacao_tile {
+	width: 120px;
+	height: 19px;
+	float: left;
+	margin-top: 11px;
+	margin-left: 8px;
+	background: url(http://1.bp.blogspot.com/-379if-EhQJY/U6bMq9D6xZI/AAAAAAAALGo/cFSmHLWl5vI/s1600/programacao.png) no-repeat center;
+}
+
+.programacao select {
+	border:solid 1px #909090;
+    -moz-border-radius: 3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	color: #5e5e5e;
+	padding: 5px;
+	width: 240px;
+	border: 1ps solid #999999;
+	float: left;
+	margin-top: 5px;
+	margin-left: 8px;
+}
+
+.close {
+	background: url(http://3.bp.blogspot.com/-iy0WEpdG0D0/U6bM9O4ZaGI/AAAAAAAALGw/7Pa29VAiGHI/s1600/close.png) no-repeat center;
+	width: 93px;
+	height: 26px;
+	float: right;
+	text-decoration: none;
+	color: #FFF;
+	text-shadow: 0px 0px 5px #000000;
+	text-align: center;
+	padding-top: 15px;
+	cursor: pointer;
+}
+
+.close:hover {
+	background: url(http://2.bp.blogspot.com/-g9exz-VXCxU/U6bNU2eQ0YI/AAAAAAAALG4/IyW8y426QxE/s1600/close_h.png) no-repeat center;
+}
+
+.open {
+	display: none;
+	background: url(http://3.bp.blogspot.com/-iy0WEpdG0D0/U6bM9O4ZaGI/AAAAAAAALGw/7Pa29VAiGHI/s1600/close.png) no-repeat center;
+	width: 93px;
+	height: 26px;
+	float: right;
+	text-decoration: none;
+	color: #FFF;
+	text-shadow: 0px 0px 5px #000000;
+	text-align: center;
+	padding-top: 15px;
+	cursor: pointer;
+}
+
+.open:hover {
+	background: url(http://2.bp.blogspot.com/-g9exz-VXCxU/U6bNU2eQ0YI/AAAAAAAALG4/IyW8y426QxE/s1600/close_h.png) no-repeat center;
+}
+
+.chat {
+	float: left;
+	margin-top: 10px;
+}
+
+.chat_close {
+	background: url(http://3.bp.blogspot.com/-8cIpZcqRT1w/U6bO375xjbI/AAAAAAAALHE/EuqpZrjwEcs/s1600/chat.png) no-repeat center;
+	width: 487px;
+	height: 451px;
+	float: left;
+	margin-top: 10px;
+	display: none;
+}
+
+
+/* ------------------------------------------------------------ */
+/* SUB CONTEÃƒÅ&#161;DO */
+/* ------------------------------------------------------------ */
+.sub_conteudo {
+	width: 978px;
+	clear: both;
+	margin: auto;
+	padding-top: 15px;
+}
+
+.parceiros {
+	width: 480px;
+	float: left;
+}
+
+.parceiros_title {
+	background: url(http://1.bp.blogspot.com/-w0GE-FJ9DUQ/U6bPMzDAWVI/AAAAAAAALHM/aDVM4iSthUQ/s1600/parceiros.png) no-repeat center;
+	width: 125px;
+	height: 19px;
+	margin-bottom: 5px;
+}
+
+.parceiros ul {
+	width: 140px;
+	float: left;
+	margin-right: 20px;
+	overflow: hidden;
+}
+
+.parceiros ul li {
+	background: url(http://3.bp.blogspot.com/-35XF4huRZCA/U6bPc0UtMYI/AAAAAAAALHU/QBi1rXDSym0/s1600/linha.png) bottom repeat-x;
+	margin-top: 8px;
+	padding-bottom: 9px;
+}
+
+.parceiros ul li:hover {
+	background: url(http://3.bp.blogspot.com/-p3qbBCQwdwY/U6bPrZXcDaI/AAAAAAAALHc/3zr1u_a6GwQ/s1600/linha_h.png) bottom repeat-x;
+}
+
+.parceiros ul li a {
+	background: url(http://2.bp.blogspot.com/-cczb4Fww8kc/U6bP5WVaUTI/AAAAAAAALHk/V0ofeZn60Eg/s1600/seta.png) no-repeat left;
+	padding-left: 6px;
+	color: #4b4b4b;
+	font-family: &#39;Aller&#39;; 
+}
+
+.parceiros ul li a:hover {
+	background: url(http://4.bp.blogspot.com/-HWCU1iMFXxk/U6bQMQOjbCI/AAAAAAAALH0/PZigNBouuoE/s1600/seta_h.png) no-repeat left;
+	padding-left: 6px;
+	font-weight: bold;
+	color: #4b4b4b;
+	font-family: &#39;Aller&#39;; 
+}
+
+.like_box {
+	width: 487px;
+	float: right;
+}
+
+
+/* ------------------------------------------------------------ */
+/* Jogos */
+/* ------------------------------------------------------------ */
+.jogos_box {
+	background: url(http://3.bp.blogspot.com/-uiLOLrW9-TI/U6bLMWxTwwI/AAAAAAAALGI/rEotQamLt78/s1600/canais_box.jpg) repeat-y center;
+	border-top: 1px solid #e6e6e6;
+	width: 998px;
+	margin: auto;
+	margin-top: 35px;
+}
+
+.jogos {
+	width: 978px;
+	margin: auto;
+}
+
+.jogo_logo {
+	background: url(http://3.bp.blogspot.com/-nAUWSk_x8-c/U6bQ9yQ4LiI/AAAAAAAALH8/Ndap_VgDLLc/s1600/jogosgratis.png) no-repeat 10px 0;
+	width: 978px;
+	height: 56px;
+	margin: auto;
+	margin-top: -30px;
+	margin-bottom: 5px;
+}
+
+.jogo {
+	width: 101px;
+	height: 130px;
+	float: left;
+	margin-left: 10px;
+	padding-right: 10px;
+}
+
+.jogo_img {
+	background: #FFF;
+	width: 101px;
+	height: 85px;
+	border: #dadada 1px solid;
+	padding-left: 2px;
+	padding-top: 2px;
+}
+
+.jogo_img img {
+	width: 99px;
+	height: 83px;
+}
+
+.jogo_name {
+	width: 101px;
+	text-align: center;
+	font-size: 11px;
+	padding-top: 3px;
+}
+
+.jogo_name a{
+	font-size: 11px;
+	color: #4b4b4b;
+}
+
+
+/* ------------------------------------------------------------ */
+/* RODAPÃƒâ&#8364;&#176; */
+/* ------------------------------------------------------------ */
+.rodape_fundo {
+	width: 100%;
+	height: 109px;
+	background: url(http://vertvonline.esy.es/vertvonline/imagens/rodape_fundo.jpg) no-repeat center;
+	margin: auto;
+}
+
+.rodape {
+	width: 1000px;
+	height: 109px;
+	background: url(http://vertvonline.esy.es/vertvonline/imagens/rodape.jpg) no-repeat center;
+	margin: auto;
+}
+
+.rodape_logo {
+	width: 143px;
+	height: 75px;
+	float: left;
+	margin-top: 19px;
+	margin-left: 15px;
+}
+
+.rodape_txt {
+	width: 750px;
+	height: 60px;
+	float: left;
+	margin-left: 15px;
+	margin-top: 40px;
+	color: #191919;
+	overflow: hidden;
+}
+
+.rodape_txt a {
+	font-weight: bold;
+	color: #191919;
+}
+
+.rodape_txt a:hover {
+	color: #3c3c3c;
+}
+
+.rodape_txt img {
+	margin-bottom: -3px;
+	margin-right: 3px;
+}
+
+.mx {
+	float: right;
+	width: 31px;
+	height: 23px;
+	margin-top: 25px;
+	margin-right: 15px;
+}
+</style>
+<script>
+  (function(i,s,o,g,r,a,m){i[&#39;GoogleAnalyticsObject&#39;]=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,&#39;script&#39;,&#39;//www.google-analytics.com/analytics.js&#39;,&#39;ga&#39;);
+
+  ga(&#39;create&#39;, &#39;UA-39494285-1&#39;, &#39;esy.es&#39;);
+  ga(&#39;send&#39;, &#39;pageview&#39;);
+
+</script>
+
+<!-- PopAds.net Popunder Code for www.vertvxat.blogspot.com -->
+<script type='text/javascript'>
+  var _pop = _pop || [];
+  _pop.push([&#39;siteId&#39;, 125223]);
+  _pop.push([&#39;minBid&#39;, 0]);
+  _pop.push([&#39;popundersPerIP&#39;, 0]);
+  _pop.push([&#39;delayBetween&#39;, 0]);
+  _pop.push([&#39;default&#39;, false]);
+  _pop.push([&#39;defaultPerDay&#39;, 0]);
+  _pop.push([&#39;topmostLayer&#39;, false]);
+  (function() {
+    var pa = document.createElement(&#39;script&#39;); pa.type = &#39;text/javascript&#39;; pa.async = true;
+    var s = document.getElementsByTagName(&#39;script&#39;)[0]; 
+    pa.src = &#39;//c1.popads.net/pop.js&#39;;
+    pa.onerror = function() {
+      var sa = document.createElement(&#39;script&#39;); sa.type = &#39;text/javascript&#39;; sa.async = true;
+      sa.src = &#39;//c2.popads.net/pop.js&#39;;
+      s.parentNode.insertBefore(sa, s);
+    };
+    s.parentNode.insertBefore(pa, s);
+  })();
+</script>
+<!-- PopAds.net Popunder Code End -->
+</head>
+
+<body>
+
+	<div class='header_fundo'>
+    
+    	<div class='header'>
+        
+        	<div class='logo'>
+            
+            	<h1><a href='http://vertvonline.ourtoolbar.com/' title='Assistir TV Online'>Assistir TV Online</a></h1>
+               
+               
+            </div>
+            
+
+            <div class='banner_728x90'>
+<iframe border='0' frameborder='0' height='90' id='ads728' marginheight='0' marginwidth='0' name='canais' scrolling='no' src='http://vertvonline.esy.es/ads/ads728x90.htm' width='728'/>
+ </div>
+            
+            <div class='menu'>
+            
+            		<ul>
+                
+               <li><a href='/' title='Página Inicial'>Página Inicial</a></li>
+               <li><a href='http://vertvonline.esy.es/pg/filmesonline.htm' target='Player' title='Filmes Online'>Filmes Online</a></li>
+               <li><a href='http://canaladultos.blogspot.com.br/' target='_blank' title='Canais Adultos'>Canais Adultos</a></li>
+               <li><a href='http://vertvonline.esy.es/pg/seriesonline.html' target='Player' title='Seriados Online'>Seriados Online</a></li>
+<li><a href='http://www.dihitt.com?ref=446265&quot; dihitt_check=&quot;858024a8deeee094a828c31ad6290607' target='_blank' title='Notícias'>Notícias
+</a></li>
+               <li><a href='http://vertvonline.esy.es/vertvonline/contatos.htm' target='Player' title='Contato'>Contato</a></li>
+                </ul>
+            
+            </div>
+        
+        </div>
+    
+    </div> <!-- Fim Header -->
+    
+    <div class='page'>
+    
+    	<div class='canaistv'>
+        
+          <ul class='jcarousel-skin-tango' id='mycarousel'>
+                    
+            <li>
+            
+            <div class='c_sbt'><a href='http://vertvonline.esy.es/canais/sbt-assistir-tv-online.html' target='Player' title='SBT'>SBT</a></div>
+            
+            <div class='c_record'><a href='http://vertvonline.esy.es/canais/record-assistir-tv-online.html' target='Player' title='Record'>Record</a></div>
+            
+            <div class='c_history_hd'><a href='http://vertvonline.esy.es/canais/history-assistir-tv-online.html' target='Player' title='History HD'>History HD</a></div>
+            
+            </li>
+            
+            <li>
+             <div class='c_fox_sports'><a href='http://vertvonline.esy.es/canais/fox-sports-assistir-tv-online.html' target='Player' title='Fox Sports'>Fox Sports</a></div>
+            
+            <div class='c_hbo'><a href='http://vertvonline.esy.es/canais/hbo-2-assistir-tv-online.html' target='Player' title='HBO'>HBO</a></div>
+                          
+            <div class='c_hbo2'><a href='http://vertvonline.esy.es/canais/hbo-hd-assistir-tv-online.html' target='Player' title='HBO 2'>HBO 2</a></div>
+            
+            </li>
+            
+            <li>
+            
+            <div class='c_fox_sports2'><a href='http://vertvonline.esy.es/canais/fox-sports-assistir-tv-online.html' target='Player' title='Fox Sports 2'>Fox Sports 2</a></div>
+                          
+            <div class='c_tnt'><a href='http://vertvonline.esy.es/canais/tnl-tele-novelas-assistir-tv-online.html' target='Player' title='TNT'>TNT</a></div>
+                          
+            <div class='c_megapix'><a href='http://vertvonline.esy.es/canais/mega-pix-assistir-tv-online.html' target='Player' title='Mega Pix'>Mega Pix</a></div>
+                          
+            </li>
+         
+            <li>
+            
+            <div class='c_ei'><a href='http://vertvonline.esy.es/canais/ei-esporte-interativo-assistir-tv-online.html' target='Player' title='Esporte Interativo'>Esporte Interativo</a></div>
+            
+            <div class='c_record_news'><a href='http://vertvonline.esy.es/canais/record-news-assistir-tv-online.html' target='Player' title='Record News'>Record News</a></div>
+            
+            <div class='c_canal_viva'><a href='http://vertvonline.esy.es/canais/viva-assistir-tv-online.html' target='Player' title='Canal Viva'>Canal Viva</a></div>
+            
+            </li>
+            
+            <li>
+            
+            <div class='c_cinemax'><a href='http://vertvonline.esy.es/canais/cinemax-assistir-tv-online.html' target='Player' title='Cinemax'>Cinemax</a></div>
+            
+            <div class='c_espn'><a href='http://vertvonline.esy.es/canais/espn-assistir-tv-online.html' target='Player' title='ESPN'>ESPN</a></div>
+            
+            <div class='c_espn_hd'><a href='http://vertvonline.esy.es/canais/espn-hd-assistir-tv-online.html' target='Player' title='ESPN HD'>ESPN HD</a></div>
+            
+            </li>
+
+            <li>
+            
+            <div class='c_espn_brasil'><a href='http://vertvonline.esy.es/canais/espn-brasil-assistir-tv-online.html' target='Player' title='ESPN Brasil'>ESPN Brasil</a></div>
+            
+            <div class='c_discovery'><a href='http://vertvonline.esy.es/canais/discovery-assistir-tv-online.html' target='Player' title='Discovery'>Discovery</a></div>
+            
+            <div class='c_history'><a href='http://vertvonline.esy.es/canais/history-assistir-tv-online.html' target='Player' title='History'>History</a></div>
+            
+            </li>
+            
+            <li>
+
+            <div class='c_animal_planet'><a href='http://vertvonline.esy.es/canais/animal-planet-assistir-tv-online.html' target='Player' title='Animal Planet'>Animal Planet</a></div>
+            
+            <div class='c_cartoon'><a href='http://vertvonline.esy.es/canais/catoon-network-assistir-tv-online.html' target='Player' title='Cartoon Network'>Cartoon Network</a></div>
+            
+            <div class='c_nick'><a href='http://vertvonline.esy.es/canais/nick-assistir-tv-online.html' target='Player' title='Nick'>Nick</a></div>
+            
+            </li>
+            
+            <li>
+            
+            <div class='c_disney_channel'><a href='http://vertvonline.esy.es/canais/disneychannel-assistir-tv-online.html' target='Player' title='Disney Channel'>Disney Channel</a></div>
+            
+            <div class='c_disney_xd'><a href='http://vertvonline.esy.es/canais/disneyxd-assistir-tv-online.html' target='Player' title='Disney XD'>Disney XD</a></div>
+            
+            <div class='c_boomerang'><a href='http://vertvonline.esy.es/canais/boomerang-assistir-tv-online.html' target='Player' title='Boomerang'>Boomerang</a></div>
+            
+            </li> 
+            
+            <li>
+            
+            <div class='c_discovery_kids'><a href='http://vertvonline.esy.es/canais/discovery-kids-assistir-tv-online.html' target='Player' title='Discovery Kids'>Discovery Kids</a></div>
+            
+            <div class='c_simpsons'><a href='http://vertvonline.esy.es/canais/os-simpsons-assistir-tv-online.html' target='Player' title='Os Simpsons'>Os Simpsons</a></div>
+            
+            <div class='c_dragon_ball'><a href='http://vertvonline.esy.es/canais/dragon-ball-z-assistir-tv-online.html' target='Player' title='Dragon Ball'>Dragon Ball</a></div>
+            
+            </li>    
+            
+            <li>
+            
+            <div class='c_chaves'><a href='http://vertvonline.esy.es/canais/chaves-assistir-tv-online.html' target='Player' title='Chaves'>Chaves</a></div>
+            
+            <div class='c_cavaleiro_do_zodiaco'><a href='http://vertvonline.esy.es/canais/cavaleiros-do-zodiaco-assistir-tv-online.html' target='Player' title='Os Cavaleiros do Zodíaco'>Os Cavaleiros do Zodíaco</a></div>
+            
+            <div class='c_tmooc'><a href='http://vertvonline.esy.es/canais/todo-mundo-odeia-o-chris-assistir-tv-online.html' target='Player' title='Todo Mundo Odeia o Chris'>Todo Mundo Odeia o Chris</a></div>
+            
+            </li> 
+            
+      
+            <li>
+          
+            <div class='c_axn'><a href='http://vertvonline.esy.es/canais/axn-assistir-tv-online.html' target='Player' title='AXN'>AXN</a></div>
+            
+            <div class='c_warner'><a href='http://vertvonline.esy.es/canais/warner-assistir-tv-online.html' target='Player' title='Warner Channel'>Warner Channel</a></div>
+            
+            <div class='c_sony'><a href='http://vertvonline.esy.es/canais/sony-assistir-tv-online.html' target='Player' title='Sony'>Sony</a></div>
+            
+            </li> 
+            
+            
+            <li>
+            
+            <div class='c_home_e_health'><a href='http://vertvonline.esy.es/canais/home-e-health-assistir-tv-online.html' target='Player' title='Home e Healt'>Home e Healt</a></div>
+                          
+            <div class='c_studio'><a href='http://vertvonline.esy.es/canais/studio-universal-assistir-tv-online.html' target='Player' title='Studio Universal'>Studio Universal</a></div>
+            
+            <div class='c_turbo'><a href='http://vertvonline.esy.es/canais/discovery-turbo-assistir-tv-online.html' target='Player' title='Discovery Turbo'>Discovery Turbo</a></div>
+            
+            </li>
+            
+            <li>
+            
+            <div class='c_universal'><a href='http://vertvonline.esy.es/canais/studio-universal-assistir-tv-online.html' target='Player' title='Universal'>Universal</a></div>
+                          
+            <div class='c_space'><a href='http://vertvonline.esy.es/canais/space-assistir-tv-online.html' target='Player' title='Space'>Space</a></div>
+            
+            <div class='c_fx'><a href='http://vertvonline.esy.es/canais/fx-assistir-tv-online.html' target='Player' title='FX'>FX</a></div>
+            
+            </li>
+            
+            <li>
+            
+            <div class='c_fox'><a href='http://vertvonline.esy.es/canais/fox-assistir-tv-online.html' target='Player' title='FOX'>FOX</a></div>
+                          
+            <div class='c_syfy'><a href='http://vertvonline.esy.es/canais/syfy-assistir-tv-online.html' target='Player' title='Syfy'>Syfy</a></div>
+            
+            <div class='c_tc_action'><a href='http://vertvonline.esy.es/canais/telecine-action-assistir-tv-online.html' target='Player' title='Tele Cine Action'>Tele Cine Action</a></div>
+            
+            </li>
+            
+            <li>
+            
+            <div class='c_tc_touch'><a href='http://vertvonline.esy.es/canais/telecine-touch-assistir-tv-online.html' target='Player' title='Tele Cine Touch'>Tele Cine Touch</a></div>
+            
+            <div class='c_tc_fun'><a href='http://vertvonline.esy.es/canais/telecine-fun-assistir-tv-online.html' target='Player' title='Tele Cine Fun'>Tele Cine Fun</a></div>
+            
+            <div class='c_tc_pipoca'><a href='http://vertvonline.esy.es/canais/telecine-pipoca-assistir-tv-online.html' target='Player' title='Tele Cine Pipoca'>Tele Cine Pipoca</a></div>
+            
+            </li>
+          
+            <li>
+         
+            <div class='c_tc_cult'><a href='http://vertvonline.esy.es/canais/telecine-cult-assistir-tv-online.html' target='Player' title='Tele Cine Cult'>Tele Cine Cult</a></div>
+            
+            <div class='c_tc_premium'><a href='http://vertvonline.esy.es/canais/telecine-premium-assistir-tv-online.html' target='Player' title='Tele Cine Premium'>Tele Cine Premium</a></div>
+            
+            <div class='c_tintin'><a href='http://vertvonline.esy.es/canais/TINTIN-assistir-tv-online.htmll' target='Player' title='As Aventuras de Tintin'>As Aventuras de Tintin</a></div>
+           
+            </li>
+            
+            <li>
+
+            <div class='c_south_park'><a href='http://vertvonline.esy.es/canais/south-park-assistir-tv-online.html' target='Player' title='South Park'>South Park</a></div>
+            
+            <div class='c_smallville'><a href='http://vertvonline.esy.es/canais/smallville-assistir-tv-online.html' target='Player' title='Smallville'>Smallville</a></div>
+            
+            <div class='c_sobrenatural'><a href='http://vertvonline.esy.es/canais/super-natural-assistir-tv-online.html' target='Player' title='Supernatural'>Supernatural</a></div>            
+            
+            </li>
+            
+            <li> 
+
+            <div class='c_max_hd'><a href='http://vertvonline.esy.es/canais/max-hd-assistir-tv-online.html' target='Player' title='Max HD'>Max HD</a></div>
+            
+            <div class='c_rede_tv'><a href='http://vertvonline.esy.es/canais/redetv-assistir-tv-online.html' target='Player' title='Rede TV'>Rede TV</a></div>
+            
+            <div class='c_hbo_family'><a href='http://vertvonline.esy.es/canais/hbo-family-assistir-tv-online.html' target='Player' title='HBO Family'>HBO Family</a></div>     
+            
+            </li>
+            
+            <li>
+            
+            <div class='c_max_prime'><a href='http://vertvonline.esy.es/canais/max-prime-assistir-tv-online.html' target='Player' title='Max Prime'>Max Prime</a></div>
+                          
+            <div class='c_multishow'><a href='http://vertvonline.esy.es/canais/multi-show-assistir-tv-online.html' target='Player' title='Multishow'>Multishow</a></div>
+            
+            <div class='c_megapix'><a href='http://vertvonline.esy.es/canais/mega-pix-assistir-tv-online.html' target='Player' title='Mega Pix'>Mega Pix</a></div>
+           
+            </li>
+            
+            <li>
+
+            <div class='c_tcm'><a href='http://vertvonline.esy.es/canais/tcm-assistir-tv-online.html' target='Player' title='TCM'>TCM</a></div>
+            
+            <div class='c_smallville'><a href='http://vertvonline.esy.es/canais/smallville-assistir-tv-online.html' target='Player' title='Smallville'>Smallville</a></div>
+            
+            <div class='c_mgm'><a href='http://vertvonline.esy.es/canais/mgm-assistir-tv-online.html' target='Player' title='MGM'>MGM</a></div> 
+       
+            </li>
+            
+            <li>
+            
+            <div class='c_nat_geo'><a href='http://vertvonline.esy.es/canais/nat-geo-assistir-tv-online.html' target='Player' title='National'>National</a></div>
+                          
+            <div class='c_investigacao_discovery'><a href='http://vertvonline.esy.es/canais/liv-assistir-tv-online.html' target='Player' title='Discovery Investigation'>Discovery Investigation</a></div>
+            
+            <div class='c_a_aeetv'><a href='http://vertvonline.esy.es/canais/ae-assistir-tv-online.html' target='Player' title='AeE'>AeE</a></div>
+    
+            </li>
+            
+            <li>
+            
+            <div class='c_cancao_nova'><a href='http://vertvonline.esy.es/canais/c-nova-assistir-tv-online.html' target='Player' title='Canção Nova'>Canção Nova</a></div>
+                          
+            <div class='c_sony_spin'><a href='http://vertvonline.esy.es/canais/sony-spin-assistir-tv-online.html' target='Player' title='Sony Spin'>Sony Spin</a></div>
+            
+            <div class='c_turbo'><a href='http://vertvonline.esy.es/canais/discovery-turbo-assistir-tv-online.html' target='Player' title='Discovery Turbo'>Discovery Turbo</a></div>
+            
+            </li>
+            
+            <li>
+            
+            <div class='c_cultura'><a href='http://vertvonline.esy.es/canais/tv-cultura-assistir-tv-online.html' target='Player' title='TV Cultura'>TV Cultura</a></div>
+                          
+            <div class='c_mtv_brasil'><a href='http://vertvonline.esy.es/canais/mtv-assistir-tv-online.html' target='Player' title='MTV'>MTV</a></div>
+            
+            <div class='c_scooby'><a href='http://vertvonline.esy.es/canais/schoobydoo-assistir-tv-online.html' target='Player' title='Scooby-Doo'>Scooby-Doo</a></div>
+            </li>
+            
+            <li>
+            
+            <div class='c_bob_esponja'><a href='http://vertvonline.esy.es/canais/bob-esponja-assistir-tv-online.html' target='Player' title='Bob Esponja'>Bob Esponja</a></div>
+                          
+            <div class='c_caverna_do_dragao'><a href='http://vertvonline.esy.es/canais/caverna-do-dragao-assistir-tv-online.htm' target='Player' title='Caverna Dragão'>Caverna Dragão</a></div>
+            
+            <div class='c_ben_10'><a href='http://vertvonline.esy.es/canais/ben-10-assistir-tv-online.html' target='Player' title='Ben 10'>Ben 10</a></div>
+            </li>
+            
+            <li>
+            
+            <div class='c_naruto'><a href='http://vertvonline.esy.es/canais/naruto-assistir-tv-online.html' target='Player' title='Naruto'>Naruto</a></div>
+                          
+            <div class='c_batman'><a href='http://vertvonline.esy.es/canais/Batman-assistir-tv-online.html' target='Player' title='Batman'>Batman</a></div>
+            
+            <div class='c_doug'><a href='http://vertvonline.esy.es/canais/doug-assistir-tv-online.html' target='Player' title='Doug'>Doug</a></div>
+            </li>
+            
+            <li>
+            
+            <div class='c_cao_covarde'><a href='http://vertvonline.esy.es/canais/coragem-o-cao-covarde-assistir-tv-online.html' target='Player' title='Coragem o Cão Covarde'>Coragem o Cão Covarde</a></div>
+                          
+            <div class='c_flintstones'><a href='http://vertvonline.esy.es/canais/osflintstones-assistir-tv-online.html' target='Player' title='Flinstones'>Flinstones</a></div>
+            
+            <div class='c_pica_pau'><a href='http://vertvonline.esy.es/canais/pica-pau-assistir-tv-online.html' target='Player' title='Pica-Pau'>Pica-Pau</a></div>
+            </li>
+            
+            <li>
+            
+            <div class='c_pokemon'><a href='http://vertvonline.esy.es/canais/pokemon-assistir-tv-online.html' target='Player' title='Pokemon'>Pokemon</a></div>
+                          
+            <div class='c_tom_e_jerry'><a href='http://vertvonline.esy.es/canais/tom-e-jerry-assistir-tv-online.html' target='Player' title='Tom e Jerry'>Tom e Jerry</a></div>
+            
+            <div class='c_family_guy'><a href='http://vertvonline.esy.es/canais/family-guy-assistir-tv-online.html' target='Player' title='Family Guy'>Family Guy</a></div>
+            </li>
+            
+            <li>
+            
+            <div class='c_x_men'><a href='http://vertvonline.esy.es/canais/x-men-assistir-tv-online.html' target='Player' title='X-MEN'>X-MEN</a></div>
+                          
+            <div class='c_yugioh'><a href='http://vertvonline.esy.es/canais/yugioh-assistir-tv-online.html' target='Player' title='Yugi-Oh'>Yugi-Oh</a></div>
+            
+            <div class='c_futurama'><a href='http://vertvonline.esy.es/canais/futurama-assistir-tv-online.html' target='Player' title='Futurama'>Futurama</a></div>
+            </li>
+            
+            <li>
+            
+            <div class='c_criminal_minds'><a href='http://vertvonline.esy.es/canais/criminal-minds-assistir-tv-online.html' target='Player' title='Criminal Minds'>Criminal Minds</a></div>
+                          
+            <div class='c_csi'><a href='http://vertvonline.esy.es/canais/csi-assistir-tv-online.html' target='Player' title='CSI'>CSI</a></div>
+            
+            <div class='c_two_and_a_half_men'><a href='http://vertvonline.esy.es/canais/dois-homens-e-meio-assistir-tv-online.html' target='Player' title='Dois Homens e Meio'>Dois Homens e Meio</a></div>
+            </li>
+            
+            <li>
+            
+            <div class='c_padrinhos'><a href='http://vertvonline.esy.es/canais/padrinhos-magicos-assistir-tv-online.htm' target='Player' title='Padrinhos Mágicos'>Padrinhos Mágicos</a></div>
+                          
+            <div class='c_friends'><a href='http://vertvonline.esy.es/canais/friends-assistir-tv-online.html' target='Player' title='Friends'>Friends</a></div>
+            
+            <div class='c_glee'><a href='http://vertvonline.esy.es/canais/glee-assistir-tv-online.htm' target='Player' title='Glee'>Glee</a></div>
+            </li>
+            
+            <li>
+            
+            <div class='c_gossip_girl'><a href='http://vertvonline.esy.es/canais/gossip-girl-assistir-tv-online.html' target='Player' title='Gossip Girl'>Gossip Girl</a></div>
+                          
+            <div class='c_greys_anatomy'><a href='http://vertvonline.esy.es/canais/greys-anatomy-assistir-tv-online.html' target='Player' title='Greys Anatomy'>Greys Anatomy</a></div>
+            
+            <div class='c_heroes'><a href='http://vertvonline.esy.es/canais/heroes-assistir-tv-online.html' target='Player' title='Heroes'>Heroes</a></div>
+            </li>
+            
+            <li>
+            
+            <div class='c_icarly'><a href='http://vertvonline.esy.es/canais/icarly-assistir-tv-online.html' target='Player' title='Icarly'>Icarly</a></div>
+                          
+            <div class='c_kenan_e_kel'><a href='http://vertvonline.esy.es/canais/kernan-e-kel-assistir-tv-online.html' target='Player' title='Kenan e Kel'>Kenan e Kel</a></div>
+            
+            <div class='c_lost'><a href='http://vertvonline.esy.es/canais/lost-assistir-tv-online.html' target='Player' title='Lost'>Lost</a></div>
+            </li>
+            
+            <li>
+            
+            <div class='c_maluco'><a href='http://vertvonline.esy.es/canais/um-maluco-no-pedaco-assistir-tv-online.html' target='Player' title='Um Maluco no Pedaço'>Um Maluco no Pedaço</a></div>
+                          
+            <div class='c_prison'><a href='http://vertvonline.esy.es/canais/prisonbreak-assistir-tv-online.html' target='Player' title='Prision Break'>Prision Break</a></div>
+            
+            <div class='c_nat_wild'><a href='http://vertvonline.esy.es/canais/nat-geo-wild-assistir-tv-online.html' target='Player' title='Nat Wild'>Nat Wild</a></div>
+            </li>
+            
+            <li>
+            
+            <div class='c_drake_e_josh'><a href='http://vertvonline.esy.es/canais/drake-e-josh-assistir-tv-online.html' target='Player' title='Drake e Josh'>Drake e Josh</a></div>
+                          
+            <div class='c_desenhos'><a href='http://vertvonline.esy.es/pg/desenhos.htm' target='Player' title='Desenhos Online'>Desenhos Online</a></div>
+            
+            <div class='c_pinguins'><a href='http://vertvonline.esy.es/canais/ospinguins-assistir-tv-online.html' target='Player' title='Os Pinguins'>Os Pinguins</a></div>
+            </li>
+            
+            <li>
+            
+            <div class='c_discovery_civilization'><a href='http://vertvonline.esy.es/canais/discoverycivilization-assistir-tv-online.html' target='Player' title='Discovery Civilization'>Discovery Civilization</a></div>
+                          
+            <div class='c_discovery_science'><a href='http://vertvonline.esy.es/canais/discscience-assistir-tv-online.html' target='Player' title='Discovery Science'>Discovery Science</a></div>
+            
+            <div class='c_oz'><a href='http://vertvonline.esy.es/canais/oz-assistir-tv-online.html' target='Player' title='OZ'>OZ</a></div>
+            </li>
+            
+            <li>
+            
+            <div class='c_vampires'><a href='http://vertvonline.esy.es/canais/vampires-diaries-assistir-tv-online.html' target='Player' title='Vampires Diares'>Vampires Diares</a></div>
+                          
+            <div class='c_avatar'><a href='http://vertvonline.esy.es/canais/avatar-assistir-tv-online.html' target='Player' title='Avatar'>Avatar</a></div>
+            
+            <div class='c_bio'><a href='http://vertvonline.esy.es/canais/biohd-assistir-tv-online.html' target='Player' title='Bio HD'>Bio HD</a></div>
+            </li>
+            
+            <li>
+            
+            <div class='c_walking'><a href='http://vertvonline.esy.es/canais/the-walking-dead-assistir-tv-online.html' target='Player' title='The Walking Dead'>The Walking Dead</a></div>
+            
+            <div class='c_thundercats'><a href='http://vertvonline.esy.es/canais/thundercats-assistir-tv-online.html' target='Player' title='Thundercats'>Thundercats</a></div>
+            
+            <div class='c_bing_bang'><a href='http://vertvonline.esy.es/canais/bigbang-assistir-tv-online.html' target='Player' title='Bing Bang Theory'>Bing Bang Theory</a></div>              
+                                    
+            </li>
+            
+            <li>
+            
+            <div class='c_chapolin'><a href='http://vertvonline.esy.es/canais/chapolim-assistir-tv-online.html' target='Player' title='Chapolin Colorado'>Chapolin Colorado</a></div>
+            
+            <div class='c_filmes_animados'><a href='http://vertvonline.esy.es/canais/filmes-animacao-assistir-tv-online.html' target='Player' title='Filmes Animados'>Filmes Animados</a></div>
+            
+            <div class='c_tru_tv'><a href='http://vertvonline.esy.es/canais/trutv-assistir-tv-online.html' target='Player' title='Tru TV'>Tru TV</a></div>
+
+            </li>
+            
+            <li>
+            
+            <div class='c_liga_justiça'><a href='http://vertvonline.esy.es/canais/liga-da-justica-assistir-tv-online.html' target='Player' title='Liga Da Justiça'>Liga Da Justiça</a></div>
+
+            <div class='c_24_horas'><a href='http://vertvonline.esy.es/canais/24horas-assistir-tv-online.html' target='Player' title='24 Horas'>24 Horas</a></div>
+
+            <div class='c_galinha'><a href='http://vertvonline.esy.es/canais/galinha-pintadinha-assistir-tv-online.html' target='Player' title='Galinha Pintadinha'>Galinha Pintadinha</a></div>
+            </li>
+            
+            <li>
+            
+            <div class='c_canal_off'><a href='http://vertvonline.esy.es/canais/off-assistir-tv-online.html' target='Player' title='Canal Off'>Canal Off</a></div>
+
+            <div class='c_comedy_central'><a href='http://vertvonline.esy.es/canais/comedy-central-assistir-tv-online.html' target='Player' title='Comedy Central'>Comedy Central</a></div>
+
+            <div class='c_digimon'><a href='http://vertvonline.esy.es/canais/digimon-assistir-tv-online.html' target='Player' title='Digimon'>Digimon</a></div>
+
+            </li>
+            
+            <li>
+            
+            <div class='c_filmes_24'><a href='http://vertvonline.esy.es/canais/filmes24horas-assistir-tv-online.html' target='Player' title='Filmes 24 Horas'>Filmes 24 Horas</a></div>
+            <div class='c_nick_hd'><a href='http://vertvonline.esy.es/canais/nick-hd-assistir-tv-online.html' target='Player' title='Nick HD'>Nick HD</a></div>
+            <div class='c_nick_jr'><a href='http://vertvonline.esy.es/canais/nick-junior-assistir-tv-online.html' target='Player' title='Nick Jr.'>Nick Jr.</a></div>  
+            </li>
+            
+            <li>
+            
+            <div class='c_canal_brasil'><a href='htthttp://vertvonline.esy.es/canais/canalbrasil-assistir-tv-online.html' target='Player' title='Canal Brasil'>Canal Brasil</a></div>
+            <div class='c_chaves_desenho'><a href='http://vertvonline.esy.es/canais/chaves-assistir-tv-online.html' target='Player' title='Chaves Desenho'>Chaves Desenho</a></div>
+            <div class='c_panico_tv'><a href='http://vertvonline.esy.es/canais/paniconatv-assistir-tv-online.html' target='Player' title='Panico na TV'>Panico na TV</a></div>         
+            </li>
+            
+            <li>
+            
+            <div class='c_monica'><a href='http://vertvonline.esy.es/canais/turma-da-monica-assistir-tv-online.html' target='Player' title='Turma da Monica'>Turma da Monica</a></div>
+            <div class='c_american_dad'><a href='http://vertvonline.esy.es/canais/american-dad-assistir-tv-online.html' target='Player' title='American Dad'>American Dad</a></div>
+            <div class='c_hollywood'><a href='http://vertvonline.esy.es/canais/canalhollywood-assistir-tv-online.html' target='Player' title='Canal Hollywood'>Canal Hollywood</a></div>                               
+            
+            </li>
+            
+            <li>
+            
+            <div class='c_axn_black'><a href='http://vertvonline.esy.es/canais/axn-black-assistir-tv-online.html' target='Player' title='AXN Black'>AXN Black</a></div>
+            <div class='c_fox_crime'><a href='http://vertvonline.esy.es/canais/fox-crime-assistir-tv-online.html' target='Player' title='Fox Crime'>Fox Crime</a></div>
+            <div class='c_fox_movies'><a href='http://vertvonline.esy.es/canais/fox-movies-assistir-tv-online.html' target='Player' title='Fox Movies'>Fox Movies</a></div> 
+            </li>
+            
+            <li>
+            
+            <div class='c_mentalista'><a href='http://vertvonline.esy.es/canais/mentalista-assistir-tv-online.htmll' target='Player' title='O Mentalista'>O Mentalista</a></div>
+            <div class='c_maskara'><a href='http://vertvonline.esy.es/canais/o-mascara-assistir-tv-online.html' target='Player' title='O Maskára'>O Maskára</a></div>
+            <div class='c_gloob'><a href='http://vertvonline.esy.es/canais/gloob-assistir-tv-online.html' target='Player' title='Gloob'>Gloob</a></div>
+                                                          
+            </li>
+            
+            <li>
+            
+            <div class='c_one_piece'><a href='http://vertvonline.esy.es/canais/onepiece-assistir-tv-online.html' target='Player' title='One Piece'>One Piece</a></div>
+            <div class='c_fantastico_bob'><a href='http://www.maxmegatv.org/fantasticomundodebob1.html' target='Player' title='O Fantástico Mundo de Bob'>O Fantástico Mundo de Bob</a></div>
+            <div class='c_mix_tv'><a href='http://vertvonline.esy.es/canais/mix-tv-assistir-tv-online.html' target='Player' title='Mix TV'>Mix TV</a></div>
+            </li>
+            
+            <li>
+            
+            <div class='c_gazeta'><a href='http://vertvonline.esy.es/canais/gazeta-assistir-tv-online.html' target='Player' title='TV Gazeta'>TV Gazeta</a></div>
+            <div class='c_familia_dino'><a href='http://vertvonline.esy.es/canais/familia-dinossauros-assistir-tv-online.html' target='Player' title='Familia Dinossauros'>Familia Dinossauros</a></div>
+            <div class='c_disney_jr'><a href='http://vertvonline.esy.es/canais/disney-junior-assistir-tv-online.html' target='Player' title='Disney Jr.'>Disney Jr.</a></div>
+            </li>
+            
+            <li>
+            
+            <div class='c_fox_life'><a href='http://vertvonline.esy.es/canais/fox-life-assistir-tv-online.html' target='Player' title='Fox Life'>Fox Life</a></div>
+            <div class='c_cine_terror'><a href='http://vertvonline.esy.es/canais/cine-terror-assistir-tv-online.html' target='Player' title='Cine Terror'>Cine Terror</a></div>
+            <div class='c_hbo_plus'><a href='http://vertvonline.esy.es/canais/hbo-plus-assistir-tv-online.html' target='Player' title='HBO Plus'>HBO Plus</a> </div>     
+             </li>
+            
+            <li>
+            
+            <div class='c_ducktales'><a href='http://vertvonline.esy.es/canais/ducktales-assistir-tv-online.html' target='Player' title='Ducktales'>Ducktales</a></div>
+            <div class='c_jackie_chan'><a href='http://vertvonline.esy.es/canais/jackie-chan-assistir-tv-online.html' target='Player' title='Jackie Chan'>Jackie Chan</a></div>
+            <div class='c_pernalonga'><a href='http://vertvonline.esy.es/canais/perna-longa-assistir-tv-online.html' target='Player' title='Pernalonga'>Pernalonga</a></div>     
+            </li>
+            
+            <li>
+            
+            <div class='c_jonny_quest'><a href='http://vertvonline.esy.es/canais/jonnyquest-assistir-tv-online.html' target='Player' title='Jonny Quest'>Jonny Quest</a></div>
+               
+            </li>
+            
+            </ul>
+        
+        </div> <!-- Fim Slide de canais -->
+<div class='box_tv'>
+        
+        	<div class='social'>
+            
+              <div class='facebook'>
+              
+              <div class='fb-like' data-href='http://www.facebook.com/vertvjogos' data-layout='button_count' data-send='false' data-show-faces='false' data-width='70'>                     </div>
+              
+              </div>
+              
+
+              <div class='g_plus'>
+              
+              <div class='g-plusone' data-href='http://vertvxat.blogspot.com.br/' data-size='medium'/>
+         
+              
+              </div>
+              
+              <div class='twitter'>
+              
+              <a class='twitter-follow-button' data-lang='pt' data-show-count='false' data-show-screen-name='false' href='https://twitter.com/@maykonm16'>Seguir @maykonm16
+
+</a>
+              
+             </div>
+            
+            </div>
+            
+            <div class='tv'>
+            
+              <div class='player'>
+              
+              <iframe frameborder='0' height='380' marginheight='0' marginwidth='0' name='Player' scrolling='no' src='' width='468'/>
+            
+          	  </div>
+              
+              <div class='player_close'>
+              
+              <p><span>Bem-Vindo ao Ver Tv Online.</span></p> 
+              
+              <p>Aqui você poderá encontrar diversos canais online como filmes, desenhos, documentários e seriados tudo gratuito que são transmitidos pela Internet. Para iniciar clique em um canal desejado no menu acima.</p>
+              
+              <div class='banner_300x250_2'>
+<iframe border='0' frameborder='0' height='250' id='canais' marginheight='0' marginwidth='0' name='canais' scrolling='no' src='http://vertvonline.esy.es/ads/anunciomeio.html' width='300'/>
+
+</div>
+              
+              </div>
+              
+            </div>
+            
+            <div class='banner_468x60'><a href='http://ads.egrana.com.br/indica/2391' rel='follow' target='_blank' title='Link Irado'><img alt='Link Irado' border='0' src='http://2.bp.blogspot.com/-r-QWU-8PzH4/U6OebMAwsKI/AAAAAAAALCE/peE-cObdkYs/s1600/egrana.png'/></a> </div>
+        
+        </div> <!-- Fim box_tv -->
+        
+        <div class='chat_box'>
+        
+        	<div class='programacao'>
+            
+            	<div class='programacao_tile'/>
+                
+                <select class='prog_select' name='programacao' onchange='javascript: abrir(this.value)'>
+                
+                <option value='0'>Selecione uma categoria!</option>
+                <option value='http://www.meuguia.tv/programacao/categoria/Filmes'>Filmes</option>
+                <option value='http://www.meuguia.tv/programacao/categoria/Series'>Séries</option>
+                <option value='http://www.meuguia.tv/programacao/categoria/Esportes'>Esportes</option>
+                <option value='http://www.meuguia.tv/programacao/categoria/Infantil'>Infantil</option>
+                <option value='http://www.meuguia.tv/programacao/categoria/Variedades'>Variedades</option>
+                <option value='http://www.meuguia.tv/programacao/categoria/Documentarios'>Documentários</option>
+                <option value='http://www.meuguia.tv/programacao/categoria/Noticias'>Notícia</option>
+                <option value='http://www.meuguia.tv/programacao/categoria/Aberta'>TV Aberta</option>
+                <option value='http://www.meuguia.tv/programacao/categoria/Aberta'>Todos os canais</option>
+                
+                </select>
+            
+            </div>
+
+            <div class='close' title='Fechar Chat'>Fechar Chat</div>
+            
+            <div class='open' title='Abrir Chat'>Abrir Chat</div>
+            
+            <div class='chat'>
+            
+              <img border='0' height='0' src='http://c.gigcount.com/wildfire/IMP/CXNID=2000002.0NXC/bT*xJmx*PTEzNDkxNzg5MzA2MzgmcHQ9MTM*OTE3ODk*Mjc5NiZwPTUzMTUxJmQ9Jmc9MSZvPTgwZDZhZmQ5NThhYTQ3NjM5ZTlj/MDBmMjIzNjBhNmFi.gif' style='visibility:hidden;width:0px;height:0px;' width='0'/><embed FlashVars='id=208977551' align='middle' allowScriptAccess='sameDomain' height='451' name='chat' pluginspage='http://xat.com/update_flash.shtml' quality='high' src='http://www.xatech.com/web_gear/chat/chat.swf' type='application/x-shockwave-flash' width='487'/><br/>
+
+            </div>
+            
+            <div class='chat_close'>
+            
+            	<div class='banner_300x250_1'><iframe border='0' frameborder='0' height='250' id='canais' marginheight='0' marginwidth='0' name='canais' scrolling='no' src='http://vertvonline.esy.es/ads/anunciomeio.html' width='300'/>
+
+</div>
+            
+            </div>
+        
+        </div> <!-- Fim Chat --><div class='sub_conteudo'>
+        
+        	<div class='parceiros'>
+            
+            	<div class='parceiros_title'/>
+                
+                <ul>
+                
+                    <li><a href='http://canaladultos.blogspot.com.br/' rel='nofollow' target='_blank' title='Canal Adultos '>Canal Adultos</a></li>
+                    
+                    <li><a href='http://vertvonline.esy.es/' rel='nofollow' target='_blank' title='Tv Online'>Tv Online</a></li>
+                    
+                    <li><a href='http://vertvonline.ourtoolbar.com/' target='_blank' title='Ver Tvonline Ourtoolbar'>Ver Tvonline Ourtoolbar</a></li>
+                    
+                    <li><a href='http://ads.egrana.com.br/indica/2391' rel='nofollow' target='_blank' title='Ganhe Dinheiro Com Seu Site'>Ganhe Dinheiro Com Seu Site</a></li>
+                     
+                    <li><a href='http://vertvxat.blogspot.com.br/' rel='nofollow' target='_blank' title='Seu Link Aqui'>Seu Link Aqui</a></li>
+                    
+                    <li><a href='http://vertvxat.blogspot.com.br/' rel='nofollow' target='_blank' title='Seu Link Aqui'>Seu Link Aqui</a></li>
+                
+                </ul>
+                
+                <ul>
+                
+                    <li><a href='http://vertvxat.blogspot.com.br/' rel='nofollow' target='_blank' title='Seu Link Aqui'>Seu Link Aqui</a></li>
+                    
+                    <li><a href='http://vertvxat.blogspot.com.br/' rel='nofollow' target='_blank' title='Seu Link Aqui'>Seu Link Aqui</a></li>
+                    
+                    <li><a href=' ' target='_blank' title='http://vertvxat.blogspot.com.br/'>Seu Link Aqui</a></li>
+                    
+                    <li><a href=' ' target='_blank' title='Seu Link Aqui'>Seu Link Aqui</a></li>
+                    
+                    <li><a href=' ' target='_blank' title='Seu Link Aqui'>Seu Link Aqui</a></li>
+                 
+                    <li><a href=' ' target='_blank' title='Seu Link Aqui'>Seu Link Aqui</a></li>
+                </ul>
+                
+                <ul>
+                
+                    <li><a href='' target='_blank' title='Seu Link Aqui'>Seu Link Aqui</a></li>
+                    
+                    <li><a href='' target='_blank' title='Seu Link Aqui'>Seu Link Aqui</a></li>
+                    
+                    <li><a href='' target='_blank' title='Seu Link Aqui'>Seu Link Aqui</a></li>
+                    
+                    <li><a href='' target='_blank' title='Seu Link Aqui'>Seu Link Aqui</a></li>
+                    
+                    <li><a href='' target='_blank' title='Seu Link Aqui'>Seu Link Aqui</a></li>
+                    
+                    <li><a href='' target='_blank' title='Seu Link Aqui'>Seu Link Aqui</a></li>
+                </ul>
+            
+          </div>
+            
+            <div class='like_box'>
+            
+            <div class='fb-like-box' data-border-color='white' data-header='false' data-height='180' data-href='http://www.facebook.com/vertvjogos' data-show-faces='true' data-stream='false' data-width='487'/>
+            
+            </div>
+            
+            <div class='clear'/>
+        
+        </div> <!-- Sub conteúdo -->
+           
+</div>
+<!-- vazio -->
+              <div class='clear'/>
+              <div class='clear'/>
+                
+        <div class='clear'/> <!-- vazio -->
+
+
+    <div class='clear'/> <!-- Fim page -->
+    
+    <div class='rodape_fundo'>
+    
+    	<div class='rodape'>
+        
+        	<div class='rodape_logo'>
+                
+                <a href='http://vertvonline.ourtoolbar.com/ '>
+                <img alt='Assistir TV Online' src='http://4.bp.blogspot.com/-1kIjQMAvw5M/U6bhOt2vG4I/AAAAAAAALJU/JiEIOfEOV_Y/s1600/logorodape.png' title='Assistir TV Online'/>
+                </a>
+            
+            </div>
+            
+            <div class='rodape_txt'>
+            
+            	 <H2>TV Online</H2>
+                 <H3>Ver TV Online</H3>
+                
+                <p>
+                
+                	<a href='http://www.facebook.com/vertvjogos' target='_blank'><img alt='Curta a nossa página no Faceook!' src='http://1.bp.blogspot.com/-FWp22kg7sGE/U6bk_uR8hrI/AAAAAAAALJw/U5dAcbAzws0/s1600/facebook_mini.png' title='Curta a nossa página no Facebook!'/></a>
+                    <a href='http://twitter.com/@maykonm16 ' target='_blank'><img alt='Siga-nos no Twitter!' src='http://1.bp.blogspot.com/-ZI384nyEp8k/U6bkhmNDrXI/AAAAAAAALJg/6zGC0GIOOAI/s1600/twitter_mini.png' title='Siga-nos no Twitter!'/></a>
+                	<a href='http://vertvxat.blogspot.com.br/' title='Página Inicial'>Página Inicial</a> |
+                
+                     <a href='http://vertvonline.esy.es/' title='Filmes Online'>Filmes Online</a> | 
+                    <a href='http://canaladultos.blogspot.com.br/' title='Canais Adultos'>Canais Adultos</a> | </p>
+            <script src='http://ads.egrana.com.br/anuncio/popup/25505' type='text/javascript'/>
+            </div>
+                
+        </div>
+
+<CENTER><script id='tc_v1gy3rvz' type='text/javascript'>
+var _tcq = _tcq || []; _tcq.push([&#39;standard&#39;, &#39;v1gy3rvz&#39;]); 
+(function() { var e = document.createElement(&#39;script&#39;); e.type = &#39;text/javascript&#39;; e.async = true; e.src = &#39;http://s.tcimg.com/w/v2/standard.js&#39;; var s = document.getElementsByTagName(&#39;script&#39;)[0]; s.parentNode.insertBefore(e, s); })();
+</script>
+<a href='http://www.prchecker.info' title='Free PR Checker'><img alt='Free PR Checker' src='http://www.prchecker.info/buts/prchecker_88x31r.gif' style='width:88px;height:31px;border:0;'/></a>
+
+</CENTER> </div>
+  <b:section class='sidebar' id='sisiatas' preferred='yes'/>
+</body>
+
+
+
+</html>

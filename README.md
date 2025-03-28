@@ -4,7 +4,7 @@ kumpulang Themplate Blogspot
 # Download Template
 
 <p>
-  <a href="#" https://blogger.googleusercontent.com/img/a/AVvXsEg0zuJCdC0nJb-K1AFLltFgMeRYQbXJsVZnWQxZ6F0lVyDvNIy6vfFzpzpfXN5_tj1zFpz1iLYvJjkkc4l2Hj_P8f4SXwlTo6BoSfsYuxjN3uBjiqLRqLOnmu0cO6m1dFjNzTP4pOC_LtWqd7CeKvBeoKqYcOs_Xxdrs_rJWfPE2JrMboAcOTX-8gpDjdY" alt="Netlify Status" />
+  <a href="#" target="_blank"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEg0zuJCdC0nJb-K1AFLltFgMeRYQbXJsVZnWQxZ6F0lVyDvNIy6vfFzpzpfXN5_tj1zFpz1iLYvJjkkc4l2Hj_P8f4SXwlTo6BoSfsYuxjN3uBjiqLRqLOnmu0cO6m1dFjNzTP4pOC_LtWqd7CeKvBeoKqYcOs_Xxdrs_rJWfPE2JrMboAcOTX-8gpDjdY-=w900" alt="Netlify Status" />
   </a>
 </p>
 
